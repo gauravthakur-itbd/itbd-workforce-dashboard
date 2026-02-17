@@ -2,7 +2,7 @@ import { useMemo, useEffect } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { 
   ArrowLeft, Building2, Users, TrendingUp, Star, MessageSquare,
-  Target, ChevronRight, User
+  Target, ChevronRight, User, Lightbulb
 } from 'lucide-react'
 import { motion } from 'framer-motion'
 import {
@@ -12,6 +12,7 @@ import {
 import { useFilterStore } from '../store/filterStore'
 import { dataService, type ReportingPeriod } from '../services/dataService'
 import ReportingPeriodSelector from '../components/ReportingPeriodSelector'
+import { InsightsEngine } from '../services/insightsEngine'
 
 const COLORS = ['#00A8E1', '#A4D233', '#F97316', '#8B5CF6', '#10B981', '#F59E0B']
 
@@ -157,6 +158,47 @@ export default function PartnerDashboard() {
             </div>
           </motion.div>
         </div>
+
+        {/* AI Insights Section */}
+        {(() => {
+          const insights = InsightsEngine.getPartnerInsights(partnerData)
+          return insights.length > 0 && (
+            <div className="card">
+              <div className="flex items-center gap-3 mb-6">
+                <Lightbulb className="w-5 h-5 text-brand-primary" />
+                <h2 className="text-xl font-display font-bold text-white">Partner Insights</h2>
+              </div>
+              <div className="grid md:grid-cols-2 gap-4">
+                {insights.map((insight, index) => (
+                  <motion.div
+                    key={index}
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: index * 0.1 }}
+                    className={`p-4 border rounded-lg ${InsightsEngine.getInsightColor(insight.type)}`}
+                  >
+                    <div className="flex items-start gap-3">
+                      <div className={`w-1 h-full min-h-[60px] rounded-full ${
+                        insight.type === 'success' ? 'bg-accent-green' :
+                        insight.type === 'warning' ? 'bg-accent-yellow' :
+                        insight.type === 'alert' ? 'bg-accent-red' :
+                        'bg-brand-primary'
+                      }`} />
+                      <div className="flex-1">
+                        <h3 className={`font-semibold mb-2 ${InsightsEngine.getInsightIconColor(insight.type)}`}>
+                          {insight.title}
+                        </h3>
+                        <p className="text-sm text-neutral-300 leading-relaxed">
+                          {insight.description}
+                        </p>
+                      </div>
+                    </div>
+                  </motion.div>
+                ))}
+              </div>
+            </div>
+          )
+        })()}
 
         {/* Charts Row */}
         <div className="grid lg:grid-cols-2 gap-6">
