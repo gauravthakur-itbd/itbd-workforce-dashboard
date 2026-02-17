@@ -11,7 +11,7 @@ export class InsightsEngine {
   // Global Dashboard Insights
   static getGlobalInsights(stats: any): InsightData[] {
     const insights: InsightData[] = []
-    const utilization = stats.avg_utilization_pct
+    const utilization = Math.round(stats.avg_utilization_pct || 0)
 
     // Utilization Analysis
     if (utilization >= 80) {
@@ -26,7 +26,7 @@ export class InsightsEngine {
         title: 'Moderate Utilization Detected',
         description: `At ${utilization}%, there is room for optimization. Consider analyzing workload distribution patterns and identifying underutilized resources.`
       })
-    } else {
+    } else if (utilization > 0) {
       insights.push({
         type: 'warning',
         title: 'Utilization Below Target',
@@ -54,17 +54,18 @@ export class InsightsEngine {
     }
 
     // CSAT Analysis
-    if (stats.avg_csat_score >= 90) {
+    const csatScore = Math.round(stats.avg_csat_score || 0)
+    if (csatScore >= 90) {
       insights.push({
         type: 'success',
         title: 'Excellent Customer Satisfaction',
-        description: `CSAT score of ${stats.avg_csat_score}% reflects high service quality. Focus on maintaining consistency across all delivery teams.`
+        description: `CSAT score of ${csatScore}% reflects high service quality. Focus on maintaining consistency across all delivery teams.`
       })
-    } else if (stats.avg_csat_score >= 75) {
+    } else if (csatScore >= 75) {
       insights.push({
         type: 'info',
         title: 'Solid Customer Feedback',
-        description: `CSAT at ${stats.avg_csat_score}% is acceptable but has improvement potential. Analyze feedback patterns to identify specific enhancement areas.`
+        description: `CSAT at ${csatScore}% is acceptable but has improvement potential. Analyze feedback patterns to identify specific enhancement areas.`
       })
     }
 
@@ -74,8 +75,8 @@ export class InsightsEngine {
   // TTL Dashboard Insights
   static getTTLInsights(ttlStats: any, engineers: any[]): InsightData[] {
     const insights: InsightData[] = []
-    const avgUtil = ttlStats.avgUtilization
-    const teamSize = ttlStats.totalEngineers
+    const avgUtil = Math.round(ttlStats.avgUtilization || 0)
+    const teamSize = ttlStats.totalEngineers || 0
 
     // Team Performance
     if (avgUtil >= 80) {
@@ -90,7 +91,7 @@ export class InsightsEngine {
         title: 'Performance Within Range',
         description: `Team utilization at ${avgUtil}% is approaching target. Focus on identifying bottlenecks and optimizing ticket assignment to reach the 80% goal.`
       })
-    } else {
+    } else if (avgUtil > 0) {
       insights.push({
         type: 'warning',
         title: 'Team Utilization Needs Attention',
@@ -145,8 +146,13 @@ export class InsightsEngine {
   // Partner Dashboard Insights
   static getPartnerInsights(partnerData: any): InsightData[] {
     const insights: InsightData[] = []
-    const avgUtil = partnerData.avg_utilization_pct
-    const engineerCount = partnerData.engineer_count
+    
+    // Calculate average utilization from engineerProfiles
+    const avgUtil = partnerData.engineerProfiles && partnerData.engineerProfiles.length > 0
+      ? Math.round(partnerData.engineerProfiles.reduce((sum: number, eng: any) => sum + eng.avg_utilization_pct, 0) / partnerData.engineerProfiles.length)
+      : 0
+    
+    const engineerCount = partnerData.engineer_count || partnerData.engineerProfiles?.length || 0
 
     // Utilization Pattern
     if (avgUtil >= 80) {
@@ -161,7 +167,7 @@ export class InsightsEngine {
         title: 'Utilization Analysis',
         description: `Current ${avgUtil}% utilization suggests room for optimization. Review ticket velocity and complexity to better match engineer capacity with partner demand.`
       })
-    } else {
+    } else if (avgUtil > 0) {
       insights.push({
         type: 'warning',
         title: 'Resource Utilization Gap',
@@ -188,8 +194,8 @@ export class InsightsEngine {
     const engineers = partnerData.engineerProfiles
     if (engineers && engineers.length > 0) {
       const utilizations = engineers.map((e: any) => e.avg_utilization_pct)
-      const maxUtil = Math.max(...utilizations)
-      const minUtil = Math.min(...utilizations)
+      const maxUtil = Math.round(Math.max(...utilizations))
+      const minUtil = Math.round(Math.min(...utilizations))
       const variance = maxUtil - minUtil
 
       if (variance > 30) {
@@ -202,7 +208,7 @@ export class InsightsEngine {
     }
 
     // CSAT Performance
-    const csatScore = partnerData.csat_score
+    const csatScore = Math.round(partnerData.csat_score || 0)
     if (csatScore >= 90) {
       insights.push({
         type: 'success',
@@ -223,8 +229,8 @@ export class InsightsEngine {
   // Engineer Dashboard Insights
   static getEngineerInsights(engineerData: any, utilizationTrend: any[]): InsightData[] {
     const insights: InsightData[] = []
-    const avgUtil = engineerData.avg_utilization_pct
-    const closeRate = engineerData.close_rate
+    const avgUtil = Math.round(engineerData.avg_utilization_pct || 0)
+    const closeRate = Math.round(engineerData.close_rate || 0)
 
     // Performance Assessment
     if (avgUtil >= 80 && closeRate >= 80) {
@@ -245,7 +251,7 @@ export class InsightsEngine {
         title: 'Efficient Ticket Resolution',
         description: `${closeRate}% close rate is excellent. Current ${avgUtil}% utilization indicates capacity for additional ticket volume or project work.`
       })
-    } else {
+    } else if (avgUtil > 0 || closeRate > 0) {
       insights.push({
         type: 'warning',
         title: 'Performance Below Targets',
