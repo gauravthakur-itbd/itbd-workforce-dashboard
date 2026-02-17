@@ -1,0 +1,13 @@
+{
+  "total_partners": 16,
+  "total_engineers": 35,
+  "partners_with_engineers": 16,
+  "engineers_with_partners": 35,
+  "total_csat_responses": 48,
+  "avg_csat_score": 100.0,
+  "avg_utilization_pct": 82.11,
+  "total_billable_hours": 4821.68,
+  "total_tickets_worked": 10262,
+  "total_tickets_closed": 7304,
+  "ticket_close_rate": 71.18
+}

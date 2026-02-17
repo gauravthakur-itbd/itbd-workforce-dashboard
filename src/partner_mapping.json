@@ -1,0 +1,848 @@
+{
+  "APM IT Solutions": {
+    "engineers": [
+      {
+        "name": "Shivani pandey",
+        "email": "Shivani.pandey@itbd.net",
+        "ttl": "Mohit",
+        "total_tickets": 170,
+        "total_billable_hours": 130.56,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Thomas Sharma",
+        "email": "Thomas.Sharma@itbd.net",
+        "ttl": "Mohit",
+        "total_tickets": 12,
+        "total_billable_hours": 49.0,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Mohit"
+    ],
+    "engineer_count": 2,
+    "csat_score": 0,
+    "total_csat_responses": 0,
+    "happy_ratings": 0,
+    "csat_comments": [],
+    "contact_emails": [],
+    "contact_names": []
+  },
+  "Acrisure Cyber Services": {
+    "engineers": [
+      {
+        "name": "Gian Estrada",
+        "email": "Gian.Estrada@itbd.net",
+        "ttl": "Ayra",
+        "total_tickets": 389,
+        "total_billable_hours": 163.21,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Rose Ann Mosquera",
+        "email": "RoseAnn.Mosquera@itbd.net",
+        "ttl": "Ayra",
+        "total_tickets": 434,
+        "total_billable_hours": 192.76,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Aianicka Francisco",
+        "email": "Aianicka.Francisco@itbd.net",
+        "ttl": "Ayra",
+        "total_tickets": 449,
+        "total_billable_hours": 170.43,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Shaurya Sharma",
+        "email": "Shaurya.Sharma@itbd.net",
+        "ttl": "Kawandeep",
+        "total_tickets": 443,
+        "total_billable_hours": 205.6,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Edrian Santos",
+        "email": "Edrian.Santos@itbd.net",
+        "ttl": "Ayra",
+        "total_tickets": 445,
+        "total_billable_hours": 197.85,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Anton Singh",
+        "email": "anton.singh@itbd.net",
+        "ttl": "Kawandeep",
+        "total_tickets": 270,
+        "total_billable_hours": 80.48,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Ayra",
+      "Kawandeep"
+    ],
+    "engineer_count": 6,
+    "csat_score": 100.0,
+    "total_csat_responses": 24,
+    "happy_ratings": 24,
+    "csat_comments": [
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "Shaurya is a constant professional and works as hard as he can to solve any issue.",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "Anton is still learning but coming along quickly. He's always looking to improve and asks the right questions when he needs assistance.",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "Ian is a good technician that is always in good spirits. His helpfulness and positive attitude are always a welcome sound to other techs and clients alike.",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "Aianicki is quickly learning the ropes",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "Parker is consistent and trusted completely. He is one of the few techs that is able to handle any task or client with little to no assistance.",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "Gian is learning quickly and is improving overall.",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "Ram is an extremely efficient and resourceful technician. She sets the bar high for the rest of the techs to try and achieve. She works hard to resolve issues as soon as possible.",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "Ian has been making great strides lately. He's completing a good number of tickets without escalation.",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      }
+    ],
+    "contact_emails": [
+      "cwilde@homefieldit.com"
+    ],
+    "contact_names": [
+      "Craig Wilde"
+    ]
+  },
+  "Byte Solutions Inc": {
+    "engineers": [
+      {
+        "name": "Kanav Gandotra",
+        "email": "Kanav.Gandotra@itbd.net",
+        "ttl": "Gagan",
+        "total_tickets": 324,
+        "total_billable_hours": 183.0,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Nash Kumar",
+        "email": "Nash.Kumar@itbd.net",
+        "ttl": "Gagan",
+        "total_tickets": 376,
+        "total_billable_hours": 230.51,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Gagan"
+    ],
+    "engineer_count": 2,
+    "csat_score": 0,
+    "total_csat_responses": 0,
+    "happy_ratings": 0,
+    "csat_comments": [],
+    "contact_emails": [],
+    "contact_names": []
+  },
+  "Deerwood Technologies Inc": {
+    "engineers": [
+      {
+        "name": "Alex Chopra",
+        "email": "Alex.Chopra@itbd.net",
+        "ttl": "Gagan",
+        "total_tickets": 608,
+        "total_billable_hours": 175.15,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Gagan"
+    ],
+    "engineer_count": 1,
+    "csat_score": 100.0,
+    "total_csat_responses": 2,
+    "happy_ratings": 2,
+    "csat_comments": [
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      }
+    ],
+    "contact_emails": [
+      "wayne.mcclure@deertech.com"
+    ],
+    "contact_names": [
+      "Wayne McClure"
+    ]
+  },
+  "ITSolutions Inc/Chips Technology Group": {
+    "engineers": [
+      {
+        "name": "Kyle Malhotra",
+        "email": "Kyle.Malhotra@itbd.net",
+        "ttl": "Kawandeep",
+        "total_tickets": 186,
+        "total_billable_hours": 125.93,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Ralph Sharma",
+        "email": "Ralph.Sharma@itbd.net",
+        "ttl": "Kawandeep",
+        "total_tickets": 220,
+        "total_billable_hours": 184.62,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Stellan Srivastava",
+        "email": "Stellan.Srivastava@itbd.net",
+        "ttl": "Kawandeep",
+        "total_tickets": 411,
+        "total_billable_hours": 252.9,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Nixon Singh",
+        "email": "Nixon.Singh@itbd.net",
+        "ttl": "Kawandeep",
+        "total_tickets": 49,
+        "total_billable_hours": 32.27,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Rico Kapil",
+        "email": "Rico.Kapil@itbd.net",
+        "ttl": "Kawandeep",
+        "total_tickets": 14,
+        "total_billable_hours": 5.64,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Kawandeep"
+    ],
+    "engineer_count": 5,
+    "csat_score": 0,
+    "total_csat_responses": 0,
+    "happy_ratings": 0,
+    "csat_comments": [],
+    "contact_emails": [],
+    "contact_names": []
+  },
+  "Innovative Technology Solutions": {
+    "engineers": [
+      {
+        "name": "Victor Nigam",
+        "email": "Victor.Nigam@itbd.net",
+        "ttl": "Gagan",
+        "total_tickets": 391,
+        "total_billable_hours": 168.34,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Gagan"
+    ],
+    "engineer_count": 1,
+    "csat_score": 100.0,
+    "total_csat_responses": 1,
+    "happy_ratings": 1,
+    "csat_comments": [
+      {
+        "comment": "Victor is a great part of our team",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      }
+    ],
+    "contact_emails": [
+      "chrisb@innovativetechinc.net"
+    ],
+    "contact_names": [
+      "Chris Bond"
+    ]
+  },
+  "LATG": {
+    "engineers": [
+      {
+        "name": "Autumn Kour",
+        "email": "Autumn.Kour@itbd.net",
+        "ttl": "Mohit",
+        "total_tickets": 141,
+        "total_billable_hours": 67.31,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Mohit"
+    ],
+    "engineer_count": 1,
+    "csat_score": 0,
+    "total_csat_responses": 0,
+    "happy_ratings": 0,
+    "csat_comments": [],
+    "contact_emails": [],
+    "contact_names": []
+  },
+  "NTi Networks": {
+    "engineers": [
+      {
+        "name": "Annie Sharma",
+        "email": "Annie.Sharma@itbd.net",
+        "ttl": "Kawandeep",
+        "total_tickets": 174,
+        "total_billable_hours": 60.22,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Rachel Manhas",
+        "email": "Rachel.Manhas@itbd.net",
+        "ttl": "Kawandeep",
+        "total_tickets": 256,
+        "total_billable_hours": 117.25,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Aster Bhatia",
+        "email": "Aster.Bhatia@itbd.net",
+        "ttl": "Kawandeep",
+        "total_tickets": 291,
+        "total_billable_hours": 115.25,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Andy",
+      "Kawandeep"
+    ],
+    "engineer_count": 3,
+    "csat_score": 100.0,
+    "total_csat_responses": 6,
+    "happy_ratings": 6,
+    "csat_comments": [
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "Akshay is always very willing to help with any task and takes it on full force without any micromanaging.",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "She's doing great!",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "He's doing great!",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      }
+    ],
+    "contact_emails": [
+      "ashley@nerdtech.net"
+    ],
+    "contact_names": [
+      "Ashley Popkin Wilson",
+      "Ashley Wilson"
+    ]
+  },
+  "Proda Technology": {
+    "engineers": [
+      {
+        "name": "Henry Sharma",
+        "email": "Henry.Sharma@itbd.net",
+        "ttl": "Mohit",
+        "total_tickets": 494,
+        "total_billable_hours": 182.68,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Nitish Singla",
+        "email": "Nitish.Singla@itbd.net",
+        "ttl": "Mohit",
+        "total_tickets": 284,
+        "total_billable_hours": 127.94,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Shalib Siddiqui",
+        "email": "shalib.siddiqui@itbd.net",
+        "ttl": "Mohit",
+        "total_tickets": 8,
+        "total_billable_hours": 6.29,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Mohit"
+    ],
+    "engineer_count": 3,
+    "csat_score": 100.0,
+    "total_csat_responses": 2,
+    "happy_ratings": 2,
+    "csat_comments": [
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      }
+    ],
+    "contact_emails": [
+      "mmyrick@prodatechnology.com"
+    ],
+    "contact_names": [
+      "Matt Myrick"
+    ]
+  },
+  "SERVICAD": {
+    "engineers": [
+      {
+        "name": "Armando Sharma",
+        "email": "Armando.Sharma@itbd.net",
+        "ttl": "Gagan",
+        "total_tickets": 218,
+        "total_billable_hours": 188.25,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Gagan"
+    ],
+    "engineer_count": 1,
+    "csat_score": 100.0,
+    "total_csat_responses": 2,
+    "happy_ratings": 2,
+    "csat_comments": [
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      }
+    ],
+    "contact_emails": [
+      "plagges@servicad.com"
+    ],
+    "contact_names": [
+      "Peter Lagges"
+    ]
+  },
+  "Servcom USA": {
+    "engineers": [
+      {
+        "name": "Aren Bhuraita",
+        "email": "Aren.Bhuraita@itbd.net",
+        "ttl": "Manish",
+        "total_tickets": 34,
+        "total_billable_hours": 11.58,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Manish"
+    ],
+    "engineer_count": 1,
+    "csat_score": 100.0,
+    "total_csat_responses": 3,
+    "happy_ratings": 3,
+    "csat_comments": [
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      }
+    ],
+    "contact_emails": [
+      "wrogers@servcomusa.com"
+    ],
+    "contact_names": [
+      "William K. Rogers"
+    ]
+  },
+  "Summit Business Technologies": {
+    "engineers": [
+      {
+        "name": "Marcus Kumar",
+        "email": "Marcus.Kumar@itbd.net",
+        "ttl": "Gagan",
+        "total_tickets": 420,
+        "total_billable_hours": 123.72,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Gagan"
+    ],
+    "engineer_count": 1,
+    "csat_score": 100.0,
+    "total_csat_responses": 3,
+    "happy_ratings": 3,
+    "csat_comments": [
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      }
+    ],
+    "contact_emails": [
+      "jason.camp@summitbiztech.com"
+    ],
+    "contact_names": [
+      "Jason Camp"
+    ]
+  },
+  "Telecommunication Technologies Group": {
+    "engineers": [
+      {
+        "name": "Mandy Sharma",
+        "email": "Mandy.Sharma@itbd.net",
+        "ttl": "Andy",
+        "total_tickets": 452,
+        "total_billable_hours": 105.0,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Andy",
+      "Kawandeep"
+    ],
+    "engineer_count": 1,
+    "csat_score": 0,
+    "total_csat_responses": 0,
+    "happy_ratings": 0,
+    "csat_comments": [],
+    "contact_emails": [],
+    "contact_names": []
+  },
+  "Think Unified": {
+    "engineers": [
+      {
+        "name": "Maverick Arora",
+        "email": "Maverick.Arora@itbd.net",
+        "ttl": "Gagan",
+        "total_tickets": 161,
+        "total_billable_hours": 115.86,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Gagan"
+    ],
+    "engineer_count": 1,
+    "csat_score": 100.0,
+    "total_csat_responses": 3,
+    "happy_ratings": 3,
+    "csat_comments": [
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      }
+    ],
+    "contact_emails": [
+      "mboskat@thinkunified.com"
+    ],
+    "contact_names": [
+      "Morgan Boskat"
+    ]
+  },
+  "Thinksocially LLC": {
+    "engineers": [
+      {
+        "name": "Garet Singh",
+        "email": "Garet.Singh@itbd.net",
+        "ttl": "Gagan",
+        "total_tickets": 90,
+        "total_billable_hours": 144.2,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Ruby Rohini",
+        "email": "Ruby.Rohini@itbd.net",
+        "ttl": "Gagan",
+        "total_tickets": 97,
+        "total_billable_hours": 58.07,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Gagan"
+    ],
+    "engineer_count": 2,
+    "csat_score": 100.0,
+    "total_csat_responses": 2,
+    "happy_ratings": 2,
+    "csat_comments": [
+      {
+        "comment": "Ruby consistently performs well.  Thank you for her.",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      },
+      {
+        "comment": "Garet continues to a reliable and effective team member.  Thank you for him.",
+        "rating": "happy",
+        "date": "",
+        "engineer": "unassigned"
+      }
+    ],
+    "contact_emails": [
+      "rturner@thinksocially.com"
+    ],
+    "contact_names": [
+      "Rodney Turner"
+    ]
+  },
+  "TrueNorth": {
+    "engineers": [
+      {
+        "name": "Nolan Arora",
+        "email": "Nolan.Arora@itbd.net",
+        "ttl": "Mohit",
+        "total_tickets": 126,
+        "total_billable_hours": 73.97,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Sherman Jaiswal",
+        "email": "Sherman.Jaiswal@itbd.net",
+        "ttl": "Mohit",
+        "total_tickets": 365,
+        "total_billable_hours": 131.55,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Albert Batura",
+        "email": "Albert.Batura@itbd.net",
+        "ttl": "Mohit",
+        "total_tickets": 217,
+        "total_billable_hours": 604.62,
+        "csat_feedback_count": 0
+      },
+      {
+        "name": "Saul Kumar",
+        "email": "Saul.Kumar@itbd.net",
+        "ttl": "Mohit",
+        "total_tickets": 1243,
+        "total_billable_hours": 39.67,
+        "csat_feedback_count": 0
+      }
+    ],
+    "ttls": [
+      "Mohit"
+    ],
+    "engineer_count": 4,
+    "csat_score": 0,
+    "total_csat_responses": 0,
+    "happy_ratings": 0,
+    "csat_comments": [],
+    "contact_emails": [],
+    "contact_names": []
+  }
+}

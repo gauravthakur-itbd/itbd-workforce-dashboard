@@ -1,0 +1,220 @@
+================================================================================
+MDE UTILIZATION FILE - DETAILED ANALYSIS
+================================================================================
+
+Sheet names: ['Sheet1', 'Form1', '_56F9DC9755BA473782653E2940F9']
+
+================================================================================
+SHEET: Sheet1
+================================================================================
+EMPTY SHEET - Skipping
+
+================================================================================
+SHEET: Form1
+================================================================================
+
+Shape: (23577, 18) (rows x columns)
+
+Columns (18):
+  1. ID
+  2. Start time
+  3. Completion time
+  4. Email
+  5. Name
+  6. Column1
+  7. Date
+  8. Reporting Manager
+  9. Billable Hours
+  10. Non Billable Hours (Excluding Admin & Break)
+  11. Only Admin time without break
+  12. No. Tickets Worked
+  13. No. New/Dispatched Tickets
+  14. No. Tickets Closed
+  15. Tickets>7 Days
+  16. Partner Name1
+  17. Partner Name
+  18. Question
+
+Data Types:
+ID                                                     float64
+Start time                                      datetime64[us]
+Completion time                                 datetime64[us]
+Email                                                      str
+Name                                                       str
+Column1                                                float64
+Date                                            datetime64[us]
+Reporting Manager                                          str
+Billable Hours                                          object
+Non Billable Hours (Excluding Admin & Break)            object
+Only Admin time without break                           object
+No. Tickets Worked                                      object
+No. New/Dispatched Tickets                              object
+No. Tickets Closed                                      object
+Tickets>7 Days                                             str
+Partner Name1                                              str
+Partner Name                                           float64
+Question                                               float64
+dtype: object
+
+First 15 rows:
+         ID          Start time     Completion time                        Email                Name  Column1       Date Reporting Manager Billable Hours Non Billable Hours (Excluding Admin & Break) Only Admin time without break No. Tickets Worked No. New/Dispatched Tickets No. Tickets Closed Tickets>7 Days Partner Name1  Partner Name  Question
+0   23411.0 2026-02-04 15:56:26 2026-02-04 15:58:05      Kanav.Gandotra@itbd.net      Kanav Gandotra      NaN 2026-02-04             Gagan              7                                            1                             0                 12                          0                 11              1           NaN           NaN       NaN
+1   23413.0 2026-02-04 16:38:59 2026-02-04 16:45:19      Armando.Sharma@itbd.net      Armando Sharma      NaN 2026-02-04             Gagan           7.75                                         0.25                             0                  8                          2                  8              5           NaN           NaN       NaN
+2   23414.0 2026-02-04 16:51:42 2026-02-04 16:52:28        Victor.Nigam@itbd.net        Victor Nigam      NaN 2026-02-04             Gagan           6.93                                            0                             0                 14                         13                 12              0           NaN           NaN       NaN
+3   23415.0 2026-02-04 17:01:56 2026-02-04 17:05:53         Alex.Chopra@itbd.net         Alex Chopra      NaN 2026-02-04             Gagan           4.46                                         2.18                          2.36                 20                         19                 19              7           NaN           NaN       NaN
+4   23416.0 2026-02-04 17:10:42 2026-02-04 17:12:22        Gian.Estrada@itbd.net        Gian Estrada      NaN 2026-02-04              Ayra           5.92                                         3.09                          2.09                 12                          4                  8              0           NaN           NaN       NaN
+5   23417.0 2026-02-04 16:43:26 2026-02-04 17:15:58       Kyle.Malhotra@itbd.net       Kyle Malhotra      NaN 2026-02-04         Kawandeep            4.5                                            0                           3.5                  8                          7                  7              1           NaN           NaN       NaN
+6   23418.0 2026-02-04 17:22:06 2026-02-04 17:23:18    RoseAnn.Mosquera@itbd.net   Rose Ann Mosquera      NaN 2026-02-04              Ayra           7.46                                            0                          0.88                 12                          5                  9              0           NaN           NaN       NaN
+7   23420.0 2026-02-04 17:46:09 2026-02-04 17:47:54        Ralph.Sharma@itbd.net        Ralph Sharma      NaN 2026-02-04         Kawandeep           8.66                                            1                             0                  8                          5                  5              3           NaN           NaN       NaN
+8   23421.0 2026-02-04 17:53:41 2026-02-04 17:55:44         Autumn.Kour@itbd.net         Autumn Kour      NaN 2026-02-04             Mohit            5.5                                          2.5                             0                 11                          9                  4              0           NaN           NaN       NaN
+9   23422.0 2026-02-04 17:56:55 2026-02-04 18:01:47  Aianicka.Francisco@itbd.net  Aianicka Francisco      NaN 2026-02-04              Ayra           6.17                                            0                             2                 14                          2                 12              0           NaN           NaN       NaN
+10  23423.0 2026-02-04 18:04:35 2026-02-04 18:06:52  Stellan.Srivastava@itbd.net  Stellan Srivastava      NaN 2026-02-04         Kawandeep           8.26                                            1                             0                 17                         13                 13             11           NaN           NaN       NaN
+11  23424.0 2026-02-04 18:32:24 2026-02-04 18:33:23         Nolan.Arora@itbd.net         Nolan Arora      NaN 2026-02-04             Mohit           4.62                                         3.38                             0                  8                          1                  1              3           NaN           NaN       NaN
+12  23425.0 2026-02-04 20:12:05 2026-02-04 20:13:11     Sherman.Jaiswal@itbd.net     Sherman Jaiswal      NaN 2026-02-04             Mohit           4.71                                         0.95                          0.95                 15                          4                  2              2           NaN           NaN       NaN
+13  23426.0 2026-02-04 20:11:52 2026-02-04 20:13:56        Annie.Sharma@itbd.net        Annie Sharma      NaN 2026-02-04         Kawandeep           3.75                                         4.25                             0                 11                          6                  5              1           NaN           NaN       NaN
+14  23427.0 2026-02-04 20:41:31 2026-02-04 20:42:47        Annie.Sharma@itbd.net        Annie Sharma      NaN 2026-02-04         Kawandeep              4                                            4                             0                 11                          5                  6              1           NaN           NaN       NaN
+
+Last 10 rows:
+            ID          Start time     Completion time                        Email                Name  Column1       Date Reporting Manager Billable Hours Non Billable Hours (Excluding Admin & Break) Only Admin time without break No. Tickets Worked No. New/Dispatched Tickets No. Tickets Closed Tickets>7 Days                           Partner Name1  Partner Name  Question
+23567  23583.0 2026-02-16 16:56:28 2026-02-16 16:59:15         Alex.Chopra@itbd.net         Alex Chopra      NaN 2026-02-16             Gagan            5.8                                         1.08                          2.12                 21                         20                 20              4               Deerwood Technologies Inc           NaN       NaN
+23568  23584.0 2026-02-16 17:04:05 2026-02-16 17:05:15    RoseAnn.Mosquera@itbd.net   Rose Ann Mosquera      NaN 2026-02-16              Ayra           7.33                                            0                          0.42                 14                          2                 10              0                 Acrisure Cyber Services           NaN       NaN
+23569  23585.0 2026-02-16 16:43:13 2026-02-16 17:13:01       Kyle.Malhotra@itbd.net       Kyle Malhotra      NaN 2026-02-16         Kawandeep           3.51                                            0                          4.49                  6                          6                  4              3  ITSolutions Inc/Chips Technology Group           NaN       NaN
+23570  23586.0 2026-02-16 17:54:17 2026-02-16 18:02:55         Autumn.Kour@itbd.net         Autumn Kour      NaN 2026-02-16             Mohit            1.3                                          6.7                           0.1                  3                          2                  0              0                                    LATG           NaN       NaN
+23571  23587.0 2026-02-16 18:08:34 2026-02-16 18:09:39  Stellan.Srivastava@itbd.net  Stellan Srivastava      NaN 2026-02-16         Kawandeep           8.02                                            1                             0                 12                          4                  6             12  ITSolutions Inc/Chips Technology Group           NaN       NaN
+23572  23588.0 2026-02-16 18:18:26 2026-02-16 18:19:21       Edrian.Santos@itbd.net       Edrian Santos      NaN 2026-02-16              Ayra           7.18                                            0                          1.06                 12                          6                  8              0                 Acrisure Cyber Services           NaN       NaN
+23573  23589.0 2026-02-16 18:19:22 2026-02-16 18:21:47       Edrian.Santos@itbd.net       Edrian Santos      NaN 2026-02-11              Ayra            6.8                                            0                          1.21                 18                          8                 15              0                 Acrisure Cyber Services           NaN       NaN
+23574  23590.0 2026-02-16 18:21:52 2026-02-16 18:22:49       Edrian.Santos@itbd.net       Edrian Santos      NaN 2026-02-12              Ayra           6.28                                            0                          1.06                 10                          2                  8              0                 Acrisure Cyber Services           NaN       NaN
+23575  23591.0 2026-02-16 18:57:45 2026-02-16 18:58:47          Nash.Kumar@itbd.net          Nash Kumar      NaN 2026-02-16             Gagan              8                                            0                             0                 14                         11                 12              0                      Byte Solutions Inc           NaN       NaN
+23576  23592.0 2026-02-16 22:27:23 2026-02-16 22:29:05        Annie.Sharma@itbd.net        Annie Sharma      NaN 2026-02-16         Kawandeep              5                                            3                             0                  7                          3                  3              1                            NTi Networks           NaN       NaN
+
+Missing values:
+ID                                                  2
+Start time                                         32
+Completion time                                    32
+Email                                               1
+Name                                                1
+Column1                                         23577
+Date                                                1
+Reporting Manager                                   1
+Billable Hours                                     45
+Non Billable Hours (Excluding Admin & Break)      111
+Only Admin time without break                    9366
+No. Tickets Worked                                 45
+No. New/Dispatched Tickets                       8006
+No. Tickets Closed                                 48
+Tickets>7 Days                                     44
+Partner Name1                                   23450
+Partner Name                                    23577
+Question                                        23577
+dtype: int64
+
+Unique value counts for all columns:
+  ID: 23574 unique | 23577 total | 2 missing
+  Start time: 23533 unique | 23577 total | 32 missing
+  Completion time: 23528 unique | 23577 total | 32 missing
+  Email: 157 unique | 23577 total | 1 missing
+  Name: 157 unique | 23577 total | 1 missing
+  Column1: 0 unique | 23577 total | 23577 missing
+  Date: 1100 unique | 23577 total | 1 missing
+  Reporting Manager: 18 unique | 23577 total | 1 missing
+    Samples: ['Gagan', 'Ayra', 'Kawandeep', 'Mohit', 'Manish', 'Andy', 'Sushant', 'Gaurav', 'Shovie', 'Macy', 'Gunjan', 'Mason', 'Luke', 'Akhilesh', 'Sarbjeet']
+  Billable Hours: 1954 unique | 23577 total | 45 missing
+  Non Billable Hours (Excluding Admin & Break): 1648 unique | 23577 total | 111 missing
+  Only Admin time without break: 1255 unique | 23577 total | 9366 missing
+  No. Tickets Worked: 107 unique | 23577 total | 45 missing
+  No. New/Dispatched Tickets: 75 unique | 23577 total | 8006 missing
+    Samples: ['0', '2', '13', '19', '4', '7', '5', '9', '1', '6', '10', '11', '3', '29', '8']
+  No. Tickets Closed: 89 unique | 23577 total | 48 missing
+    Samples: ['11', '8', '12', '19', '7', '9', '5', '4', '13', '1', '2', '6', '10', '78', '27']
+  Tickets>7 Days: 75 unique | 23577 total | 44 missing
+    Samples: ['1', '5', '0', '7', '3', '11', '2', '4', '9', '6', '12', '14', '8', '13', 'Board Management']
+  Partner Name1: 13 unique | 23577 total | 23450 missing
+    Samples: ['Proda Technology', 'Byte Solutions Inc', 'Innovative Technology Solutions', 'Deerwood Technologies Inc', 'ITSolutions Inc/Chips Technology Group', 'Acrisure Cyber Services', 'LATG', 'Thinksocially LLC', 'TrueNorth', 'Summit Business Technologies', 'SERVICAD', 'NTi Networks', 'APM IT Solutions']
+  Partner Name: 0 unique | 23577 total | 23577 missing
+  Question: 0 unique | 23577 total | 23577 missing
+
+Numeric columns statistics:
+                 ID  Column1  Partner Name  Question
+count  23575.000000      0.0           0.0       0.0
+mean   11791.542312      NaN           NaN       NaN
+std     6811.028425      NaN           NaN       NaN
+min        1.000000      NaN           NaN       NaN
+25%     5893.500000      NaN           NaN       NaN
+50%    11787.000000      NaN           NaN       NaN
+75%    17690.500000      NaN           NaN       NaN
+max    23592.000000      NaN           NaN       NaN
+
+Date-like columns found: ['Start time', 'Completion time', 'Date', 'Only Admin time without break']
+
+  Start time:
+    Min: 2023-03-02 14:28:21
+    Max: 2026-02-16 22:27:23
+    Sample values: <DatetimeArray>
+['2026-02-04 15:56:26', '2026-02-04 16:38:59', '2026-02-04 16:51:42',
+ '2026-02-04 17:01:56', '2026-02-04 17:10:42', '2026-02-04 16:43:26',
+ '2026-02-04 17:22:06', '2026-02-04 17:46:09', '2026-02-04 17:53:41',
+ '2026-02-04 17:56:55']
+Length: 10, dtype: datetime64[us]
+
+  Completion time:
+    Min: 2023-03-02 14:46:33
+    Max: 2026-02-16 22:29:05
+    Sample values: <DatetimeArray>
+['2026-02-04 15:58:05', '2026-02-04 16:45:19', '2026-02-04 16:52:28',
+ '2026-02-04 17:05:53', '2026-02-04 17:12:22', '2026-02-04 17:15:58',
+ '2026-02-04 17:23:18', '2026-02-04 17:47:54', '2026-02-04 17:55:44',
+ '2026-02-04 18:01:47']
+Length: 10, dtype: datetime64[us]
+
+  Date:
+    Min: 2023-02-01 00:00:00
+    Max: 2026-02-16 00:00:00
+    Sample values: <DatetimeArray>
+['2026-02-04 00:00:00', '2026-02-03 00:00:00', '2026-02-02 00:00:00',
+ '2026-02-01 00:00:00', '2026-01-31 00:00:00', '2026-01-30 00:00:00',
+ '2026-01-29 00:00:00', '2026-01-28 00:00:00', '2026-01-27 00:00:00',
+ '2026-01-26 00:00:00']
+Length: 10, dtype: datetime64[us]
+
+  Only Admin time without break:
+Traceback (most recent call last):
+  File "/Users/GauravThakur/Desktop/BI Deshbords/analyze_excel_detailed.py", line 71, in <module>
+    print(f"    Min: {df[col].min()}")
+                      ~~~~~~~~~~~^^
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/util/_decorators.py", line 336, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/core/series.py", line 7802, in min
+    return NDFrame.min(
+           ~~~~~~~~~~~^
+        self, axis=axis, skipna=skipna, numeric_only=numeric_only, **kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/core/generic.py", line 11797, in min
+    return self._stat_function(
+           ~~~~~~~~~~~~~~~~~~~^
+        "min",
+        ^^^^^^
+    ...<4 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/core/generic.py", line 11785, in _stat_function
+    return self._reduce(
+           ~~~~~~~~~~~~^
+        func, name=name, axis=axis, skipna=skipna, numeric_only=numeric_only
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/core/series.py", line 7494, in _reduce
+    result = op(delegate, skipna=skipna, **kwds)
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/core/nanops.py", line 149, in f
+    result = alt(values, axis=axis, skipna=skipna, **kwds)
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/core/nanops.py", line 404, in new_func
+    result = func(values, axis=axis, skipna=skipna, mask=mask, **kwargs)
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/core/nanops.py", line 1103, in reduction
+    result = getattr(values, meth)(axis)
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/numpy/_core/_methods.py", line 45, in _amin
+    return umr_minimum(a, axis, None, out, keepdims, initial, where)
+TypeError: '<=' not supported between instances of 'float' and 'str'

@@ -1,0 +1,5763 @@
+{
+  "Kanav.Gandotra@itbd.net": {
+    "name": "Kanav Gandotra",
+    "email": "Kanav.Gandotra@itbd.net",
+    "ttl": "Gagan",
+    "partners": [
+      "Byte Solutions Inc"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 183.0,
+    "total_tickets_worked": 324,
+    "total_tickets_closed": 272,
+    "days_worked": 30,
+    "avg_tickets_per_day": 10.8,
+    "avg_utilization_pct": 76.25,
+    "close_rate": 83.95,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 7.05,
+        "non_billable_hours": 0.95,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 6.2,
+        "non_billable_hours": 1.8,
+        "tickets_worked": 15,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 6.25,
+        "non_billable_hours": 1.75,
+        "tickets_worked": 10,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 6.3,
+        "non_billable_hours": 1.7,
+        "tickets_worked": 12,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 6.1,
+        "non_billable_hours": 1.9,
+        "tickets_worked": 9,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 6.2,
+        "non_billable_hours": 1.8,
+        "tickets_worked": 10,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 6.4,
+        "non_billable_hours": 1.6,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 6.2,
+        "non_billable_hours": 1.8,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 5.35,
+        "non_billable_hours": 2.65,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.25,
+        "non_billable_hours": 1.75,
+        "tickets_worked": 9,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 6.15,
+        "non_billable_hours": 1.85,
+        "tickets_worked": 15,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 5.3,
+        "non_billable_hours": 2.7,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 6.5,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 9,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 5.35,
+        "non_billable_hours": 2.65,
+        "tickets_worked": 8,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 6.0,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 4,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 6.25,
+        "non_billable_hours": 1.75,
+        "tickets_worked": 14,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-26",
+        "billable_hours": 5.35,
+        "non_billable_hours": 2.65,
+        "tickets_worked": 9,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 7.35,
+        "non_billable_hours": 0.65,
+        "tickets_worked": 17,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 6.15,
+        "non_billable_hours": 1.85,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 7.05,
+        "non_billable_hours": 0.95,
+        "tickets_worked": 18,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 6.5,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 14,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 7.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 6.05,
+        "non_billable_hours": 1.95,
+        "tickets_worked": 8,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 6.0,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 8,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 6.3,
+        "non_billable_hours": 1.7,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 5.55,
+        "non_billable_hours": 2.45,
+        "tickets_worked": 16,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 4.55,
+        "non_billable_hours": 3.45,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 5.0,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 8,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 6.2,
+        "non_billable_hours": 1.8,
+        "tickets_worked": 10,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 6.1,
+        "non_billable_hours": 1.9,
+        "tickets_worked": 10,
+        "tickets_closed": 7
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Armando.Sharma@itbd.net": {
+    "name": "Armando Sharma",
+    "email": "Armando.Sharma@itbd.net",
+    "ttl": "Gagan",
+    "partners": [
+      "SERVICAD"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 188.25,
+    "total_tickets_worked": 218,
+    "total_tickets_closed": 165,
+    "days_worked": 26,
+    "avg_tickets_per_day": 8.38,
+    "avg_utilization_pct": 90.5,
+    "close_rate": 75.69,
+    "recent_utilization": [
+      {
+        "date": "2026-01-05",
+        "billable_hours": 7.5,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 12,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 7.75,
+        "non_billable_hours": 0.25,
+        "tickets_worked": 13,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 8.25,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 9,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 7.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 9,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 6.0,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 7,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 7.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 11,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 7.25,
+        "non_billable_hours": 0.75,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 4.75,
+        "non_billable_hours": 3.25,
+        "tickets_worked": 5,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 5.0,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 3,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 7.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 8,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 7.5,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 8,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 7.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 6,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 6.0,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 9,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 7.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 6,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 8.25,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 7.5,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 6,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 7.25,
+        "non_billable_hours": 0.75,
+        "tickets_worked": 5,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 7.5,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 10,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 7.75,
+        "non_billable_hours": 0.25,
+        "tickets_worked": 8,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 9,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 7.5,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 12,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 7.5,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 10,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 6,
+        "tickets_closed": 3
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Victor.Nigam@itbd.net": {
+    "name": "Victor Nigam",
+    "email": "Victor.Nigam@itbd.net",
+    "ttl": "Gagan",
+    "partners": [
+      "Innovative Technology Solutions"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 168.34,
+    "total_tickets_worked": 391,
+    "total_tickets_closed": 349,
+    "days_worked": 26,
+    "avg_tickets_per_day": 15.04,
+    "avg_utilization_pct": 80.93,
+    "close_rate": 89.26,
+    "recent_utilization": [
+      {
+        "date": "2026-01-05",
+        "billable_hours": 9.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 25,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 7.62,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 20,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 8.1,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 21,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 8.56,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 21,
+        "tickets_closed": 19
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 4.35,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 2.12,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 8.83,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 21,
+        "tickets_closed": 19
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 7.87,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 9.15,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 21,
+        "tickets_closed": 19
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 6.92,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 5.94,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 17,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 6.76,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 6.21,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 6.78,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 7.22,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 8.26,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 5.69,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 6.93,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 8.33,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 21,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 6.99,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 5.9,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 3.85,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 6.28,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 4.42,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 1.32,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 4.94,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Alex.Chopra@itbd.net": {
+    "name": "Alex Chopra",
+    "email": "Alex.Chopra@itbd.net",
+    "ttl": "Gagan",
+    "partners": [
+      "Deerwood Technologies Inc"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 175.15,
+    "total_tickets_worked": 608,
+    "total_tickets_closed": 537,
+    "days_worked": 30,
+    "avg_tickets_per_day": 20.27,
+    "avg_utilization_pct": 72.98,
+    "close_rate": 88.32,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 5.41,
+        "non_billable_hours": 1.51,
+        "tickets_worked": 26,
+        "tickets_closed": 23
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 6.28,
+        "non_billable_hours": 0.7,
+        "tickets_worked": 26,
+        "tickets_closed": 23
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 6.7,
+        "non_billable_hours": 0.37,
+        "tickets_worked": 24,
+        "tickets_closed": 21
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 5.0,
+        "non_billable_hours": 1.75,
+        "tickets_worked": 16,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 6.64,
+        "non_billable_hours": 0.56,
+        "tickets_worked": 17,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 6.62,
+        "non_billable_hours": 0.63,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 5.84,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 18,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 6.2,
+        "non_billable_hours": 0.87,
+        "tickets_worked": 20,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 4.8,
+        "non_billable_hours": 1.96,
+        "tickets_worked": 17,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.55,
+        "non_billable_hours": 0.83,
+        "tickets_worked": 16,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 6.44,
+        "non_billable_hours": 0.88,
+        "tickets_worked": 22,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 6.0,
+        "non_billable_hours": 0.76,
+        "tickets_worked": 14,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 6.14,
+        "non_billable_hours": 0.63,
+        "tickets_worked": 27,
+        "tickets_closed": 25
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 5.39,
+        "non_billable_hours": 1.58,
+        "tickets_worked": 16,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 6.1,
+        "non_billable_hours": 0.97,
+        "tickets_worked": 17,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 5.89,
+        "non_billable_hours": 0.95,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 5.32,
+        "non_billable_hours": 1.14,
+        "tickets_worked": 27,
+        "tickets_closed": 25
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 5.83,
+        "non_billable_hours": 1.65,
+        "tickets_worked": 14,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 5.61,
+        "non_billable_hours": 1.17,
+        "tickets_worked": 21,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 6.22,
+        "non_billable_hours": 0.72,
+        "tickets_worked": 18,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 6.41,
+        "non_billable_hours": 0.4,
+        "tickets_worked": 29,
+        "tickets_closed": 27
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 4.46,
+        "non_billable_hours": 2.18,
+        "tickets_worked": 20,
+        "tickets_closed": 19
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 5.44,
+        "non_billable_hours": 1.57,
+        "tickets_worked": 19,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 5.76,
+        "non_billable_hours": 1.17,
+        "tickets_worked": 20,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 5.74,
+        "non_billable_hours": 1.32,
+        "tickets_worked": 24,
+        "tickets_closed": 21
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 6.15,
+        "non_billable_hours": 0.88,
+        "tickets_worked": 32,
+        "tickets_closed": 28
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 5.32,
+        "non_billable_hours": 1.66,
+        "tickets_worked": 19,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 5.38,
+        "non_billable_hours": 1.63,
+        "tickets_worked": 16,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 5.71,
+        "non_billable_hours": 1.79,
+        "tickets_worked": 25,
+        "tickets_closed": 19
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 5.8,
+        "non_billable_hours": 1.08,
+        "tickets_worked": 21,
+        "tickets_closed": 20
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Gian.Estrada@itbd.net": {
+    "name": "Gian Estrada",
+    "email": "Gian.Estrada@itbd.net",
+    "ttl": "Ayra",
+    "partners": [
+      "Acrisure Cyber Services"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 163.21,
+    "total_tickets_worked": 389,
+    "total_tickets_closed": 278,
+    "days_worked": 30,
+    "avg_tickets_per_day": 12.97,
+    "avg_utilization_pct": 68.0,
+    "close_rate": 71.47,
+    "recent_utilization": [
+      {
+        "date": "2026-01-01",
+        "billable_hours": 2.15,
+        "non_billable_hours": 6.85,
+        "tickets_worked": 7,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-02",
+        "billable_hours": 3.71,
+        "non_billable_hours": 5.3,
+        "tickets_worked": 8,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 6.53,
+        "non_billable_hours": 2.47,
+        "tickets_worked": 17,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 5.62,
+        "non_billable_hours": 3.38,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 5.52,
+        "non_billable_hours": 3.48,
+        "tickets_worked": 17,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 4.79,
+        "non_billable_hours": 4.21,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 6.0,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 9,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 6.56,
+        "non_billable_hours": 2.44,
+        "tickets_worked": 16,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 5.61,
+        "non_billable_hours": 3.39,
+        "tickets_worked": 15,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 5.7,
+        "non_billable_hours": 3.3,
+        "tickets_worked": 16,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 5.81,
+        "non_billable_hours": 3.19,
+        "tickets_worked": 12,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-17",
+        "billable_hours": 6.25,
+        "non_billable_hours": 2.85,
+        "tickets_worked": 18,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 5.38,
+        "non_billable_hours": 3.62,
+        "tickets_worked": 8,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 5.7,
+        "non_billable_hours": 3.3,
+        "tickets_worked": 10,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 5.68,
+        "non_billable_hours": 3.3,
+        "tickets_worked": 16,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 5.34,
+        "non_billable_hours": 3.66,
+        "tickets_worked": 14,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 6.21,
+        "non_billable_hours": 2.89,
+        "tickets_worked": 16,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-24",
+        "billable_hours": 6.24,
+        "non_billable_hours": 2.76,
+        "tickets_worked": 25,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 5.49,
+        "non_billable_hours": 3.51,
+        "tickets_worked": 11,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 5.39,
+        "non_billable_hours": 3.61,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 5.1,
+        "non_billable_hours": 3.9,
+        "tickets_worked": 10,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 6.34,
+        "non_billable_hours": 2.67,
+        "tickets_worked": 15,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-31",
+        "billable_hours": 4.55,
+        "non_billable_hours": 4.47,
+        "tickets_worked": 11,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 5.92,
+        "non_billable_hours": 3.09,
+        "tickets_worked": 12,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 5.29,
+        "non_billable_hours": 3.74,
+        "tickets_worked": 10,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 4.1,
+        "non_billable_hours": 4.9,
+        "tickets_worked": 11,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-07",
+        "billable_hours": 5.76,
+        "non_billable_hours": 3.27,
+        "tickets_worked": 16,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 4.3,
+        "non_billable_hours": 4.7,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 5.79,
+        "non_billable_hours": 3.21,
+        "tickets_worked": 13,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 6.38,
+        "non_billable_hours": 2.62,
+        "tickets_worked": 11,
+        "tickets_closed": 10
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Kyle.Malhotra@itbd.net": {
+    "name": "Kyle Malhotra",
+    "email": "Kyle.Malhotra@itbd.net",
+    "ttl": "Kawandeep",
+    "partners": [
+      "ITSolutions Inc/Chips Technology Group"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 125.93,
+    "total_tickets_worked": 186,
+    "total_tickets_closed": 134,
+    "days_worked": 29,
+    "avg_tickets_per_day": 6.41,
+    "avg_utilization_pct": 54.28,
+    "close_rate": 72.04,
+    "recent_utilization": [
+      {
+        "date": "2026-01-03",
+        "billable_hours": 0.95,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 3,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-04",
+        "billable_hours": 1.93,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 5.52,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 9,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 4.09,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 5.43,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-11",
+        "billable_hours": 1.84,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 5.93,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 5.08,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 6,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 6.16,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.42,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-18",
+        "billable_hours": 1.67,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 4.33,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 6,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 2.42,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 6,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 2.09,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 2,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-26",
+        "billable_hours": 4.86,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 5.62,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 4.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 6.33,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-01",
+        "billable_hours": 1.76,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 5.01,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 6.25,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 9,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 4.5,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 6.09,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-02-08",
+        "billable_hours": 2.17,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 6.75,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 7.26,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 6.37,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-15",
+        "billable_hours": 1.59,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 3,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 3.51,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 6,
+        "tickets_closed": 4
+      }
+    ],
+    "csat_feedback": []
+  },
+  "RoseAnn.Mosquera@itbd.net": {
+    "name": "Rose Ann Mosquera",
+    "email": "RoseAnn.Mosquera@itbd.net",
+    "ttl": "Ayra",
+    "partners": [
+      "Acrisure Cyber Services"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 192.76,
+    "total_tickets_worked": 434,
+    "total_tickets_closed": 332,
+    "days_worked": 30,
+    "avg_tickets_per_day": 14.47,
+    "avg_utilization_pct": 80.32,
+    "close_rate": 76.5,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 4.36,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 9,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-03",
+        "billable_hours": 6.16,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 22,
+        "tickets_closed": 19
+      },
+      {
+        "date": "2026-01-04",
+        "billable_hours": 6.16,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 22,
+        "tickets_closed": 19
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 5.72,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 18,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 5.74,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 5.48,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 6.8,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-10",
+        "billable_hours": 5.58,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 6.46,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 5.55,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.25,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 5.47,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 4.74,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 6.22,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 6.36,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 17,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 6.47,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 7.04,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 11.62,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 33,
+        "tickets_closed": 27
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 6.87,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 6.82,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 7.46,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 7.57,
+        "non_billable_hours": 9.0,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 7.59,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 6.39,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 6.97,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 7.17,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 7.31,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 6.68,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 18,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 7.33,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 10
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Ralph.Sharma@itbd.net": {
+    "name": "Ralph Sharma",
+    "email": "Ralph.Sharma@itbd.net",
+    "ttl": "Kawandeep",
+    "partners": [
+      "ITSolutions Inc/Chips Technology Group"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 184.62,
+    "total_tickets_worked": 220,
+    "total_tickets_closed": 181,
+    "days_worked": 30,
+    "avg_tickets_per_day": 7.33,
+    "avg_utilization_pct": 76.92,
+    "close_rate": 82.27,
+    "recent_utilization": [
+      {
+        "date": "2026-01-06",
+        "billable_hours": 4.52,
+        "non_billable_hours": 4.48,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 6.74,
+        "non_billable_hours": 2.26,
+        "tickets_worked": 6,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 7.61,
+        "non_billable_hours": 1.39,
+        "tickets_worked": 9,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 5.32,
+        "non_billable_hours": 3.68,
+        "tickets_worked": 9,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-10",
+        "billable_hours": 7.3,
+        "non_billable_hours": 1.7,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 6.27,
+        "non_billable_hours": 2.73,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 5.79,
+        "non_billable_hours": 3.21,
+        "tickets_worked": 8,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 8.24,
+        "non_billable_hours": 0.83,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 6.79,
+        "non_billable_hours": 2.21,
+        "tickets_worked": 10,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-17",
+        "billable_hours": 6.73,
+        "non_billable_hours": 2.27,
+        "tickets_worked": 5,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 5.6,
+        "non_billable_hours": 3.4,
+        "tickets_worked": 8,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 2.13,
+        "non_billable_hours": 6.87,
+        "tickets_worked": 3,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 3.32,
+        "non_billable_hours": 5.68,
+        "tickets_worked": 4,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 8.43,
+        "non_billable_hours": 0.57,
+        "tickets_worked": 8,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-24",
+        "billable_hours": 6.83,
+        "non_billable_hours": 2.17,
+        "tickets_worked": 10,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 5.05,
+        "non_billable_hours": 3.95,
+        "tickets_worked": 5,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 2.44,
+        "non_billable_hours": 6.56,
+        "tickets_worked": 2,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 7.58,
+        "non_billable_hours": 1.42,
+        "tickets_worked": 4,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 6.19,
+        "non_billable_hours": 2.81,
+        "tickets_worked": 7,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-31",
+        "billable_hours": 4.5,
+        "non_billable_hours": 4.5,
+        "tickets_worked": 7,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 7.19,
+        "non_billable_hours": 1.81,
+        "tickets_worked": 8,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 8.66,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 8,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 7.04,
+        "non_billable_hours": 1.96,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 7.49,
+        "non_billable_hours": 1.51,
+        "tickets_worked": 11,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-07",
+        "billable_hours": 5.51,
+        "non_billable_hours": 3.49,
+        "tickets_worked": 8,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 6.45,
+        "non_billable_hours": 2.55,
+        "tickets_worked": 7,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 5.88,
+        "non_billable_hours": 3.12,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 8.34,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 11,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 6.33,
+        "non_billable_hours": 2.67,
+        "tickets_worked": 6,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-14",
+        "billable_hours": 4.35,
+        "non_billable_hours": 4.65,
+        "tickets_worked": 7,
+        "tickets_closed": 6
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Autumn.Kour@itbd.net": {
+    "name": "Autumn Kour",
+    "email": "Autumn.Kour@itbd.net",
+    "ttl": "Mohit",
+    "partners": [
+      "LATG"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 67.31,
+    "total_tickets_worked": 141,
+    "total_tickets_closed": 66,
+    "days_worked": 25,
+    "avg_tickets_per_day": 5.64,
+    "avg_utilization_pct": 33.66,
+    "close_rate": 46.81,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 2.05,
+        "non_billable_hours": 5.95,
+        "tickets_worked": 3,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 2.34,
+        "non_billable_hours": 5.66,
+        "tickets_worked": 3,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 3.41,
+        "non_billable_hours": 4.59,
+        "tickets_worked": 5,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 2.19,
+        "non_billable_hours": 5.81,
+        "tickets_worked": 4,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 2.59,
+        "non_billable_hours": 5.41,
+        "tickets_worked": 5,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 2.66,
+        "non_billable_hours": 5.34,
+        "tickets_worked": 5,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 4.5,
+        "non_billable_hours": 3.5,
+        "tickets_worked": 3,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 2.82,
+        "non_billable_hours": 5.18,
+        "tickets_worked": 6,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 2.28,
+        "non_billable_hours": 5.72,
+        "tickets_worked": 5,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 1.73,
+        "non_billable_hours": 6.27,
+        "tickets_worked": 5,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 1.04,
+        "non_billable_hours": 6.96,
+        "tickets_worked": 3,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 1.54,
+        "non_billable_hours": 6.46,
+        "tickets_worked": 6,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 3.62,
+        "non_billable_hours": 4.38,
+        "tickets_worked": 7,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 2.59,
+        "non_billable_hours": 5.41,
+        "tickets_worked": 6,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 1.27,
+        "non_billable_hours": 6.93,
+        "tickets_worked": 4,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 2.22,
+        "non_billable_hours": 5.78,
+        "tickets_worked": 4,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 5.5,
+        "non_billable_hours": 2.5,
+        "tickets_worked": 11,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 3.78,
+        "non_billable_hours": 4.5,
+        "tickets_worked": 10,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 2.0,
+        "non_billable_hours": 6.0,
+        "tickets_worked": 5,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 2.5,
+        "non_billable_hours": 6.0,
+        "tickets_worked": 6,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 5.0,
+        "non_billable_hours": 4.0,
+        "tickets_worked": 8,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 2.76,
+        "non_billable_hours": 5.24,
+        "tickets_worked": 8,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 4.0,
+        "non_billable_hours": 4.0,
+        "tickets_worked": 7,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 1.62,
+        "non_billable_hours": 6.38,
+        "tickets_worked": 9,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 1.3,
+        "non_billable_hours": 6.7,
+        "tickets_worked": 3,
+        "tickets_closed": 0
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Aianicka.Francisco@itbd.net": {
+    "name": "Aianicka Francisco",
+    "email": "Aianicka.Francisco@itbd.net",
+    "ttl": "Ayra",
+    "partners": [
+      "Acrisure Cyber Services"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 170.43,
+    "total_tickets_worked": 449,
+    "total_tickets_closed": 331,
+    "days_worked": 31,
+    "avg_tickets_per_day": 14.48,
+    "avg_utilization_pct": 68.72,
+    "close_rate": 73.72,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 3.56,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 6.55,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 19,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 4.64,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 5.7,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 5.7,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 5.77,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 5.2,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 20,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 5.9,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 5.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 5.12,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 5.17,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 5.87,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 5.43,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 5.06,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 5.77,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 6.73,
+        "non_billable_hours": 1.29,
+        "tickets_worked": 21,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-26",
+        "billable_hours": 6.1,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 18,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 5.59,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 5.19,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 5.58,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 17,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 5.77,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 17,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 6.47,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 25,
+        "tickets_closed": 23
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 6.37,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 20,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 6.17,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 5.56,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 5.76,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 9,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 6.14,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 19,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 5.96,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 5.64,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 5.45,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 10
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Stellan.Srivastava@itbd.net": {
+    "name": "Stellan Srivastava",
+    "email": "Stellan.Srivastava@itbd.net",
+    "ttl": "Kawandeep",
+    "partners": [
+      "ITSolutions Inc/Chips Technology Group"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 252.9,
+    "total_tickets_worked": 411,
+    "total_tickets_closed": 245,
+    "days_worked": 31,
+    "avg_tickets_per_day": 13.26,
+    "avg_utilization_pct": 101.98,
+    "close_rate": 59.61,
+    "recent_utilization": [
+      {
+        "date": "2026-01-05",
+        "billable_hours": 8.06,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 13,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 8.15,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 8.12,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 8.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 10,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 8.03,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 10,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 8.09,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 8.09,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 8.07,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 13,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 8.08,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 13,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 8.09,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 10,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 8.07,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 8.27,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 13,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 8.1,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 13,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 8.01,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 13,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 8.08,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-26",
+        "billable_hours": 8.17,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 15,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 8.1,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 8.71,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 17,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 8.08,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 8.12,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 10,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 8.97,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 8.24,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 17,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 8.26,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 17,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 8.01,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 11,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 8.65,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 16,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 8.09,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 16,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 8.01,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 8.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 8.07,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 8.02,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 6
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Nolan.Arora@itbd.net": {
+    "name": "Nolan Arora",
+    "email": "Nolan.Arora@itbd.net",
+    "ttl": "Mohit",
+    "partners": [
+      "TrueNorth"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 73.97,
+    "total_tickets_worked": 126,
+    "total_tickets_closed": 19,
+    "days_worked": 15,
+    "avg_tickets_per_day": 8.4,
+    "avg_utilization_pct": 61.64,
+    "close_rate": 15.08,
+    "recent_utilization": [
+      {
+        "date": "2026-01-15",
+        "billable_hours": 3.13,
+        "non_billable_hours": 4.87,
+        "tickets_worked": 8,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 2.01,
+        "non_billable_hours": 5.99,
+        "tickets_worked": 7,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 2.2,
+        "non_billable_hours": 5.8,
+        "tickets_worked": 8,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 9.53,
+        "non_billable_hours": 6.47,
+        "tickets_worked": 18,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 2.3,
+        "non_billable_hours": 5.7,
+        "tickets_worked": 4,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 4.68,
+        "non_billable_hours": 3.32,
+        "tickets_worked": 7,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 2.26,
+        "non_billable_hours": 5.74,
+        "tickets_worked": 5,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 8.56,
+        "non_billable_hours": 4.61,
+        "tickets_worked": 14,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 4.62,
+        "non_billable_hours": 3.38,
+        "tickets_worked": 8,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 4.45,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 5.16,
+        "non_billable_hours": 2.84,
+        "tickets_worked": 8,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 9.73,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 6,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 6.07,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 5.33,
+        "non_billable_hours": 2.67,
+        "tickets_worked": 10,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 3.94,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 2
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Sherman.Jaiswal@itbd.net": {
+    "name": "Sherman Jaiswal",
+    "email": "Sherman.Jaiswal@itbd.net",
+    "ttl": "Mohit",
+    "partners": [
+      "TrueNorth"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 131.55,
+    "total_tickets_worked": 365,
+    "total_tickets_closed": 74,
+    "days_worked": 27,
+    "avg_tickets_per_day": 13.52,
+    "avg_utilization_pct": 60.9,
+    "close_rate": 20.27,
+    "recent_utilization": [
+      {
+        "date": "2026-01-01",
+        "billable_hours": 0.33,
+        "non_billable_hours": 0.88,
+        "tickets_worked": 3,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-01-02",
+        "billable_hours": 8.6,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 29,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 5.9,
+        "non_billable_hours": 0.98,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 9.67,
+        "non_billable_hours": 0.98,
+        "tickets_worked": 27,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 4.16,
+        "non_billable_hours": 0.67,
+        "tickets_worked": 15,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 4.38,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 3.33,
+        "non_billable_hours": 0.3,
+        "tickets_worked": 8,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 5.78,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 4.77,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 20,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 3.9,
+        "non_billable_hours": 2.73,
+        "tickets_worked": 9,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.38,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 23,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 5.83,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 6.09,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 5.42,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 4.52,
+        "non_billable_hours": 0.67,
+        "tickets_worked": 11,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 3.43,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 4.28,
+        "non_billable_hours": 0.1,
+        "tickets_worked": 13,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 4.91,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 1.64,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 7,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 2.53,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 9,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-01",
+        "billable_hours": 3.6,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 4.24,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 4.71,
+        "non_billable_hours": 0.95,
+        "tickets_worked": 15,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 6.8,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 6.25,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 6.4,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 3.7,
+        "non_billable_hours": 0.8,
+        "tickets_worked": 15,
+        "tickets_closed": 3
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Annie.Sharma@itbd.net": {
+    "name": "Annie Sharma",
+    "email": "Annie.Sharma@itbd.net",
+    "ttl": "Kawandeep",
+    "partners": [
+      "NTi Networks"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 60.22,
+    "total_tickets_worked": 174,
+    "total_tickets_closed": 99,
+    "days_worked": 18,
+    "avg_tickets_per_day": 9.67,
+    "avg_utilization_pct": 41.82,
+    "close_rate": 56.9,
+    "recent_utilization": [
+      {
+        "date": "2026-01-05",
+        "billable_hours": 2.28,
+        "non_billable_hours": 5.72,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 1.33,
+        "non_billable_hours": 6.67,
+        "tickets_worked": 5,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 1.62,
+        "non_billable_hours": 6.38,
+        "tickets_worked": 6,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 3.83,
+        "non_billable_hours": 4.17,
+        "tickets_worked": 12,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 2.2,
+        "non_billable_hours": 6.9,
+        "tickets_worked": 20,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 1.65,
+        "non_billable_hours": 6.35,
+        "tickets_worked": 7,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 2.47,
+        "non_billable_hours": 5.53,
+        "tickets_worked": 7,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 3.03,
+        "non_billable_hours": 4.97,
+        "tickets_worked": 9,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 3.1,
+        "non_billable_hours": 4.9,
+        "tickets_worked": 9,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 3.88,
+        "non_billable_hours": 4.12,
+        "tickets_worked": 8,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 3.33,
+        "non_billable_hours": 4.67,
+        "tickets_worked": 8,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 4.0,
+        "non_billable_hours": 4.0,
+        "tickets_worked": 12,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 7.75,
+        "non_billable_hours": 8.25,
+        "tickets_worked": 22,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 3.25,
+        "non_billable_hours": 4.75,
+        "tickets_worked": 10,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 4.5,
+        "non_billable_hours": 3.5,
+        "tickets_worked": 9,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 3.0,
+        "non_billable_hours": 5.0,
+        "tickets_worked": 7,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 4.0,
+        "non_billable_hours": 4.0,
+        "tickets_worked": 9,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 5.0,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 7,
+        "tickets_closed": 3
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Shaurya.Sharma@itbd.net": {
+    "name": "Shaurya Sharma",
+    "email": "Shaurya.Sharma@itbd.net",
+    "ttl": "Kawandeep",
+    "partners": [
+      "Acrisure Cyber Services"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 205.6,
+    "total_tickets_worked": 443,
+    "total_tickets_closed": 428,
+    "days_worked": 30,
+    "avg_tickets_per_day": 14.77,
+    "avg_utilization_pct": 85.67,
+    "close_rate": 96.61,
+    "recent_utilization": [
+      {
+        "date": "2026-01-03",
+        "billable_hours": 6.93,
+        "non_billable_hours": 0.07,
+        "tickets_worked": 19,
+        "tickets_closed": 19
+      },
+      {
+        "date": "2026-01-04",
+        "billable_hours": 6.28,
+        "non_billable_hours": 0.74,
+        "tickets_worked": 17,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 6.6,
+        "non_billable_hours": 1.04,
+        "tickets_worked": 13,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-10",
+        "billable_hours": 5.71,
+        "non_billable_hours": 1.52,
+        "tickets_worked": 12,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-11",
+        "billable_hours": 6.14,
+        "non_billable_hours": 1.05,
+        "tickets_worked": 13,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 5.85,
+        "non_billable_hours": 1.44,
+        "tickets_worked": 11,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.19,
+        "non_billable_hours": 0.7,
+        "tickets_worked": 17,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 7.07,
+        "non_billable_hours": 0.18,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-17",
+        "billable_hours": 6.82,
+        "non_billable_hours": 0.19,
+        "tickets_worked": 24,
+        "tickets_closed": 24
+      },
+      {
+        "date": "2026-01-18",
+        "billable_hours": 6.3,
+        "non_billable_hours": 0.64,
+        "tickets_worked": 17,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 6.43,
+        "non_billable_hours": 0.66,
+        "tickets_worked": 13,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 7.09,
+        "non_billable_hours": 0.1,
+        "tickets_worked": 19,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-24",
+        "billable_hours": 6.42,
+        "non_billable_hours": 0.91,
+        "tickets_worked": 23,
+        "tickets_closed": 22
+      },
+      {
+        "date": "2026-01-25",
+        "billable_hours": 5.8,
+        "non_billable_hours": 1.03,
+        "tickets_worked": 8,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 13.39,
+        "non_billable_hours": 1.3,
+        "tickets_worked": 16,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 6.15,
+        "non_billable_hours": 1.13,
+        "tickets_worked": 8,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 5.52,
+        "non_billable_hours": 0.68,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-31",
+        "billable_hours": 6.26,
+        "non_billable_hours": 0.17,
+        "tickets_worked": 15,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-02-01",
+        "billable_hours": 6.44,
+        "non_billable_hours": 0.32,
+        "tickets_worked": 11,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 6.32,
+        "non_billable_hours": 0.72,
+        "tickets_worked": 10,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 5.51,
+        "non_billable_hours": 1.25,
+        "tickets_worked": 9,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 6.68,
+        "non_billable_hours": 1.18,
+        "tickets_worked": 14,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-07",
+        "billable_hours": 6.43,
+        "non_billable_hours": 0.35,
+        "tickets_worked": 18,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-02-08",
+        "billable_hours": 6.74,
+        "non_billable_hours": 0.3,
+        "tickets_worked": 17,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 6.75,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 7.65,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 7.33,
+        "non_billable_hours": 0.1,
+        "tickets_worked": 16,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-02-14",
+        "billable_hours": 6.65,
+        "non_billable_hours": 0.17,
+        "tickets_worked": 23,
+        "tickets_closed": 22
+      },
+      {
+        "date": "2026-02-15",
+        "billable_hours": 6.11,
+        "non_billable_hours": 0.63,
+        "tickets_worked": 9,
+        "tickets_closed": 9
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Garet.Singh@itbd.net": {
+    "name": "Garet Singh",
+    "email": "Garet.Singh@itbd.net",
+    "ttl": "Gagan",
+    "partners": [
+      "Thinksocially LLC"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 144.2,
+    "total_tickets_worked": 90,
+    "total_tickets_closed": 82,
+    "days_worked": 21,
+    "avg_tickets_per_day": 4.29,
+    "avg_utilization_pct": 85.83,
+    "close_rate": 91.11,
+    "recent_utilization": [
+      {
+        "date": "2026-01-05",
+        "billable_hours": 7.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 6.35,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 6.57,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 6,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 7.13,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.6,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 3,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 7.03,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 7.03,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 7.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 6.5,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 6.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 3,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 0.03,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 3,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-26",
+        "billable_hours": 7.8,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 6.9,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 7.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 7.03,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 3,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 6.6,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 3,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 6.89,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 6.91,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 5.83,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 2,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 14.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 7
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Henry.Sharma@itbd.net": {
+    "name": "Henry Sharma",
+    "email": "Henry.Sharma@itbd.net",
+    "ttl": "Mohit",
+    "partners": [
+      "Proda Technology"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 182.68,
+    "total_tickets_worked": 494,
+    "total_tickets_closed": 330,
+    "days_worked": 28,
+    "avg_tickets_per_day": 17.64,
+    "avg_utilization_pct": 81.55,
+    "close_rate": 66.8,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 6.58,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 21,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 6.52,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 17,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 8.1,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 21,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 7.33,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 20,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 8.33,
+        "non_billable_hours": 0.83,
+        "tickets_worked": 24,
+        "tickets_closed": 20
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 6.2,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 7.62,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 21,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 7.37,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 10,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 4.5,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 16,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 5.18,
+        "non_billable_hours": 1.25,
+        "tickets_worked": 15,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 9.2,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 18,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 6.38,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 23,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 5.77,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 16,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 6.13,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 5.53,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 20,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 8.88,
+        "non_billable_hours": 0.75,
+        "tickets_worked": 20,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 5.63,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 15,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 6.22,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 16,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 4.92,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 6.13,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 17,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 5.98,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 17,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 4.72,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 17,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 6.15,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 13,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 7.33,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 30,
+        "tickets_closed": 24
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 7.02,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 24,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 7.74,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 15,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 4.4,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 11,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 6.82,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 18,
+        "tickets_closed": 11
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Edrian.Santos@itbd.net": {
+    "name": "Edrian Santos",
+    "email": "Edrian.Santos@itbd.net",
+    "ttl": "Ayra",
+    "partners": [
+      "Acrisure Cyber Services"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 197.85,
+    "total_tickets_worked": 445,
+    "total_tickets_closed": 375,
+    "days_worked": 30,
+    "avg_tickets_per_day": 14.83,
+    "avg_utilization_pct": 82.44,
+    "close_rate": 84.27,
+    "recent_utilization": [
+      {
+        "date": "2026-01-05",
+        "billable_hours": 6.86,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 17,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 11.96,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 24,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 6.08,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 5.65,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-11",
+        "billable_hours": 6.95,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 20,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 6.89,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 29,
+        "tickets_closed": 27
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 5.65,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 6.06,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.69,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 9,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-18",
+        "billable_hours": 6.93,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 19,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 5.13,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 5.66,
+        "non_billable_hours": 0.73,
+        "tickets_worked": 10,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 6.73,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 6.57,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-25",
+        "billable_hours": 5.52,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-26",
+        "billable_hours": 6.26,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 17,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 5.5,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 5.72,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 6.09,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-01",
+        "billable_hours": 5.51,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 7.05,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 7.37,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 18,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-02-08",
+        "billable_hours": 6.19,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 21,
+        "tickets_closed": 19
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 13.89,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 25,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 6.8,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 18,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 6.28,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-15",
+        "billable_hours": 7.17,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 22,
+        "tickets_closed": 21
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 7.18,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 8
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Marcus.Kumar@itbd.net": {
+    "name": "Marcus Kumar",
+    "email": "Marcus.Kumar@itbd.net",
+    "ttl": "Gagan",
+    "partners": [
+      "Summit Business Technologies"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 123.72,
+    "total_tickets_worked": 420,
+    "total_tickets_closed": 327,
+    "days_worked": 26,
+    "avg_tickets_per_day": 16.15,
+    "avg_utilization_pct": 59.48,
+    "close_rate": 77.86,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 4.44,
+        "non_billable_hours": 2.35,
+        "tickets_worked": 16,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 5.11,
+        "non_billable_hours": 1.02,
+        "tickets_worked": 19,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 5.4,
+        "non_billable_hours": 0.96,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 5.5,
+        "non_billable_hours": 2.04,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 6.05,
+        "non_billable_hours": 1.29,
+        "tickets_worked": 16,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 4.56,
+        "non_billable_hours": 0.93,
+        "tickets_worked": 15,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 6.91,
+        "non_billable_hours": 0.83,
+        "tickets_worked": 23,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 5.31,
+        "non_billable_hours": 0.77,
+        "tickets_worked": 17,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 5.32,
+        "non_billable_hours": 1.45,
+        "tickets_worked": 23,
+        "tickets_closed": 20
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 5.55,
+        "non_billable_hours": 0.98,
+        "tickets_worked": 17,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 4.58,
+        "non_billable_hours": 1.57,
+        "tickets_worked": 17,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 4.45,
+        "non_billable_hours": 1.85,
+        "tickets_worked": 17,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 4.14,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 18,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 5.06,
+        "non_billable_hours": 1.66,
+        "tickets_worked": 16,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 3.03,
+        "non_billable_hours": 2.69,
+        "tickets_worked": 14,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 3.53,
+        "non_billable_hours": 3.74,
+        "tickets_worked": 14,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 2.78,
+        "non_billable_hours": 3.2,
+        "tickets_worked": 16,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 3.93,
+        "non_billable_hours": 2.13,
+        "tickets_worked": 16,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 3.11,
+        "non_billable_hours": 2.97,
+        "tickets_worked": 16,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 4.26,
+        "non_billable_hours": 2.28,
+        "tickets_worked": 18,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 4.6,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 5.28,
+        "non_billable_hours": 0.74,
+        "tickets_worked": 11,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 3.89,
+        "non_billable_hours": 1.7,
+        "tickets_worked": 18,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 5.82,
+        "non_billable_hours": 1.11,
+        "tickets_worked": 18,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 6.52,
+        "non_billable_hours": 2.49,
+        "tickets_worked": 16,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 4.59,
+        "non_billable_hours": 0.83,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Albert.Batura@itbd.net": {
+    "name": "Albert Batura",
+    "email": "Albert.Batura@itbd.net",
+    "ttl": "Mohit",
+    "partners": [
+      "TrueNorth"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 604.62,
+    "total_tickets_worked": 217,
+    "total_tickets_closed": 74,
+    "days_worked": 20,
+    "avg_tickets_per_day": 10.85,
+    "avg_utilization_pct": 377.89,
+    "close_rate": 34.1,
+    "recent_utilization": [
+      {
+        "date": "2026-01-01",
+        "billable_hours": 4.37,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 9,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-02",
+        "billable_hours": 4.35,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 9,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 5.48,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 11,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 5.59,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 3.04,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 9,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 3.56,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 10,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 3.07,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 4.83,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 8,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 5.42,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 6,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 5.38,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 7,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 514.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 8,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 6.12,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 11,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 5.57,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 4.52,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 5.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 11,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 4.16,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 11,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 4.56,
+        "non_billable_hours": 1.04,
+        "tickets_worked": 16,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 5.11,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 5.51,
+        "non_billable_hours": 0.4,
+        "tickets_worked": 11,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 4.98,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 14,
+        "tickets_closed": 3
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Rachel.Manhas@itbd.net": {
+    "name": "Rachel Manhas",
+    "email": "Rachel.Manhas@itbd.net",
+    "ttl": "Kawandeep",
+    "partners": [
+      "NTi Networks"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 117.25,
+    "total_tickets_worked": 256,
+    "total_tickets_closed": 195,
+    "days_worked": 24,
+    "avg_tickets_per_day": 10.67,
+    "avg_utilization_pct": 61.07,
+    "close_rate": 76.17,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 4.75,
+        "non_billable_hours": 3.25,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 3.75,
+        "non_billable_hours": 4.25,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 3.25,
+        "non_billable_hours": 4.75,
+        "tickets_worked": 6,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 12.5,
+        "non_billable_hours": 3.5,
+        "tickets_worked": 28,
+        "tickets_closed": 22
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 9.5,
+        "non_billable_hours": 6.4,
+        "tickets_worked": 20,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 3.25,
+        "non_billable_hours": 4.75,
+        "tickets_worked": 11,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 5.0,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 9,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 4.0,
+        "non_billable_hours": 4.0,
+        "tickets_worked": 8,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 3.5,
+        "non_billable_hours": 4.5,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 4.5,
+        "non_billable_hours": 3.5,
+        "tickets_worked": 10,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 3.25,
+        "non_billable_hours": 4.75,
+        "tickets_worked": 10,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 4.75,
+        "non_billable_hours": 3.25,
+        "tickets_worked": 11,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 6.25,
+        "non_billable_hours": 1.75,
+        "tickets_worked": 12,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 6.75,
+        "non_billable_hours": 1.25,
+        "tickets_worked": 17,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 5.5,
+        "non_billable_hours": 2.5,
+        "tickets_worked": 13,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-24",
+        "billable_hours": 0.25,
+        "non_billable_hours": 7.75,
+        "tickets_worked": 1,
+        "tickets_closed": 1
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 4.75,
+        "non_billable_hours": 3.25,
+        "tickets_worked": 6,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 6.25,
+        "non_billable_hours": 2.75,
+        "tickets_worked": 14,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 5.0,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 6,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 1.5,
+        "non_billable_hours": 6.5,
+        "tickets_worked": 6,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 5.5,
+        "non_billable_hours": 2.5,
+        "tickets_worked": 14,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 4.0,
+        "non_billable_hours": 4.0,
+        "tickets_worked": 9,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 4.5,
+        "non_billable_hours": 3.5,
+        "tickets_worked": 9,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 5.0,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 9,
+        "tickets_closed": 6
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Ruby.Rohini@itbd.net": {
+    "name": "Ruby Rohini",
+    "email": "Ruby.Rohini@itbd.net",
+    "ttl": "Gagan",
+    "partners": [
+      "Thinksocially LLC"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 58.07,
+    "total_tickets_worked": 97,
+    "total_tickets_closed": 73,
+    "days_worked": 10,
+    "avg_tickets_per_day": 9.7,
+    "avg_utilization_pct": 72.59,
+    "close_rate": 75.26,
+    "recent_utilization": [
+      {
+        "date": "2026-01-01",
+        "billable_hours": 1.83,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 2,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-02",
+        "billable_hours": 6.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 7.25,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 5.08,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 7.83,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 4.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 5.92,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 5.75,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 6.25,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 8.16,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 11
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Aster.Bhatia@itbd.net": {
+    "name": "Aster Bhatia",
+    "email": "Aster.Bhatia@itbd.net",
+    "ttl": "Kawandeep",
+    "partners": [
+      "NTi Networks"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 115.25,
+    "total_tickets_worked": 291,
+    "total_tickets_closed": 280,
+    "days_worked": 19,
+    "avg_tickets_per_day": 15.32,
+    "avg_utilization_pct": 75.82,
+    "close_rate": 96.22,
+    "recent_utilization": [
+      {
+        "date": "2026-01-05",
+        "billable_hours": 6.0,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 15,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 4.0,
+        "non_billable_hours": 4.0,
+        "tickets_worked": 12,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 5.75,
+        "non_billable_hours": 2.75,
+        "tickets_worked": 11,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 4.25,
+        "non_billable_hours": 3.25,
+        "tickets_worked": 10,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 5.75,
+        "non_billable_hours": 2.25,
+        "tickets_worked": 18,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 5.5,
+        "non_billable_hours": 2.5,
+        "tickets_worked": 17,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 6.25,
+        "non_billable_hours": 1.75,
+        "tickets_worked": 12,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 3.75,
+        "non_billable_hours": 4.25,
+        "tickets_worked": 10,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 3.0,
+        "non_billable_hours": 5.0,
+        "tickets_worked": 8,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 5.25,
+        "non_billable_hours": 2.75,
+        "tickets_worked": 13,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 4.5,
+        "non_billable_hours": 3.5,
+        "tickets_worked": 12,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 6.0,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 16,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 10.5,
+        "non_billable_hours": 5.5,
+        "tickets_worked": 20,
+        "tickets_closed": 20
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 5.5,
+        "non_billable_hours": 10.5,
+        "tickets_worked": 17,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-26",
+        "billable_hours": 16.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 46,
+        "tickets_closed": 46
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 5.25,
+        "non_billable_hours": 2.75,
+        "tickets_worked": 10,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 7.25,
+        "non_billable_hours": 0.75,
+        "tickets_worked": 13,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 5.25,
+        "non_billable_hours": 2.75,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 5.5,
+        "non_billable_hours": 2.5,
+        "tickets_worked": 17,
+        "tickets_closed": 16
+      }
+    ],
+    "csat_feedback": []
+  },
+  "anton.singh@itbd.net": {
+    "name": "Anton Singh",
+    "email": "anton.singh@itbd.net",
+    "ttl": "Kawandeep",
+    "partners": [
+      "Acrisure Cyber Services"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 80.48,
+    "total_tickets_worked": 270,
+    "total_tickets_closed": 196,
+    "days_worked": 14,
+    "avg_tickets_per_day": 19.29,
+    "avg_utilization_pct": 71.86,
+    "close_rate": 72.59,
+    "recent_utilization": [
+      {
+        "date": "2026-01-08",
+        "billable_hours": 3.98,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 5.92,
+        "non_billable_hours": 2.08,
+        "tickets_worked": 13,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 6.32,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 5.05,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 5.95,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 18,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 5.39,
+        "non_billable_hours": 0.17,
+        "tickets_worked": 15,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 6.54,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 31,
+        "tickets_closed": 19
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 6.2,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 5.21,
+        "non_billable_hours": 0.17,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 6.09,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 6.29,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 5.36,
+        "non_billable_hours": 0.84,
+        "tickets_worked": 19,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 6.43,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 21,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-14",
+        "billable_hours": 5.75,
+        "non_billable_hours": 0.33,
+        "tickets_worked": 55,
+        "tickets_closed": 49
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Mandy.Sharma@itbd.net": {
+    "name": "Mandy Sharma",
+    "email": "Mandy.Sharma@itbd.net",
+    "ttl": "Andy",
+    "partners": [
+      "Telecommunication Technologies Group"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 105.0,
+    "total_tickets_worked": 452,
+    "total_tickets_closed": 440,
+    "days_worked": 20,
+    "avg_tickets_per_day": 22.6,
+    "avg_utilization_pct": 65.62,
+    "close_rate": 97.35,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 4.25,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 11,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 2.5,
+        "non_billable_hours": 4.75,
+        "tickets_worked": 13,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 5.5,
+        "non_billable_hours": 1.75,
+        "tickets_worked": 16,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 4.5,
+        "non_billable_hours": 2.5,
+        "tickets_worked": 12,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 6.5,
+        "non_billable_hours": 0.75,
+        "tickets_worked": 16,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 5.0,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 31,
+        "tickets_closed": 30
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 3.0,
+        "non_billable_hours": 4.0,
+        "tickets_worked": 13,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 25,
+        "tickets_closed": 24
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 4.5,
+        "non_billable_hours": 2.5,
+        "tickets_worked": 11,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 49,
+        "tickets_closed": 48
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 38,
+        "tickets_closed": 37
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 4.5,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 12,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 6.25,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 25,
+        "tickets_closed": 24
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 5.0,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 37,
+        "tickets_closed": 36
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 4.0,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 18,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 3.5,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 15,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-26",
+        "billable_hours": 5.0,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 18,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 3.0,
+        "non_billable_hours": 3.5,
+        "tickets_worked": 15,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 36,
+        "tickets_closed": 36
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 41,
+        "tickets_closed": 40
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Maverick.Arora@itbd.net": {
+    "name": "Maverick Arora",
+    "email": "Maverick.Arora@itbd.net",
+    "ttl": "Gagan",
+    "partners": [
+      "Think Unified"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 115.86,
+    "total_tickets_worked": 161,
+    "total_tickets_closed": 119,
+    "days_worked": 19,
+    "avg_tickets_per_day": 8.47,
+    "avg_utilization_pct": 76.22,
+    "close_rate": 73.91,
+    "recent_utilization": [
+      {
+        "date": "2026-01-01",
+        "billable_hours": 0.01,
+        "non_billable_hours": 8.0,
+        "tickets_worked": 0,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-01-02",
+        "billable_hours": 0.01,
+        "non_billable_hours": 8.0,
+        "tickets_worked": 0,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 4.66,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 4.41,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 13.28,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 22,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 5.57,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 12.44,
+        "non_billable_hours": 0.75,
+        "tickets_worked": 20,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 4.37,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 5,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 5.98,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 7.33,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 5.66,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 6.03,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 5.9,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 6.98,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 5.5,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 4.34,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 6,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 7.36,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 6,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 7.65,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 8.37,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Nash.Kumar@itbd.net": {
+    "name": "Nash Kumar",
+    "email": "Nash.Kumar@itbd.net",
+    "ttl": "Gagan",
+    "partners": [
+      "Byte Solutions Inc"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 230.51,
+    "total_tickets_worked": 376,
+    "total_tickets_closed": 319,
+    "days_worked": 29,
+    "avg_tickets_per_day": 12.97,
+    "avg_utilization_pct": 99.36,
+    "close_rate": 84.84,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 8.07,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-06",
+        "billable_hours": 8.07,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 10.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 20,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 8.43,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 18,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 8.25,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 7.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 9,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 7.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 7.5,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 9,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 7.5,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 14,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 7.17,
+        "non_billable_hours": 0.83,
+        "tickets_worked": 10,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 7.83,
+        "non_billable_hours": 0.17,
+        "tickets_worked": 12,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 8.25,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 8
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 8.5,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 21,
+        "tickets_closed": 20
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 19,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 7.07,
+        "non_billable_hours": 0.93,
+        "tickets_worked": 13,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 12,
+        "tickets_closed": 10
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 8.45,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 15,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 6.67,
+        "non_billable_hours": 1.33,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 10,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 13
+      },
+      {
+        "date": "2026-02-13",
+        "billable_hours": 8.75,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 16,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-02-16",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Nitish.Singla@itbd.net": {
+    "name": "Nitish Singla",
+    "email": "Nitish.Singla@itbd.net",
+    "ttl": "Mohit",
+    "partners": [
+      "Proda Technology"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 127.94,
+    "total_tickets_worked": 284,
+    "total_tickets_closed": 212,
+    "days_worked": 20,
+    "avg_tickets_per_day": 14.2,
+    "avg_utilization_pct": 79.96,
+    "close_rate": 74.65,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 5.78,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 8,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 16.62,
+        "non_billable_hours": 2.5,
+        "tickets_worked": 50,
+        "tickets_closed": 43
+      },
+      {
+        "date": "2026-01-07",
+        "billable_hours": 7.16,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 13,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-08",
+        "billable_hours": 0.01,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 0,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-01-09",
+        "billable_hours": 7.61,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 18,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-12",
+        "billable_hours": 8.15,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 18,
+        "tickets_closed": 17
+      },
+      {
+        "date": "2026-01-13",
+        "billable_hours": 7.37,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 18,
+        "tickets_closed": 15
+      },
+      {
+        "date": "2026-01-14",
+        "billable_hours": 5.66,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 11,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.07,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 13,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 7.5,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 10,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 5.13,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 10,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 7.05,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 16,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 4.2,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 11,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 5.43,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 11,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 0.01,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 0,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 7.88,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 20,
+        "tickets_closed": 16
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 5.82,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 12,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 7.65,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 18,
+        "tickets_closed": 14
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 4.47,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 10,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 8.37,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 17,
+        "tickets_closed": 12
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Nixon.Singh@itbd.net": {
+    "name": "Nixon Singh",
+    "email": "Nixon.Singh@itbd.net",
+    "ttl": "Kawandeep",
+    "partners": [
+      "ITSolutions Inc/Chips Technology Group"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 32.27,
+    "total_tickets_worked": 49,
+    "total_tickets_closed": 26,
+    "days_worked": 4,
+    "avg_tickets_per_day": 12.25,
+    "avg_utilization_pct": 100.84,
+    "close_rate": 53.06,
+    "recent_utilization": [
+      {
+        "date": "2026-01-19",
+        "billable_hours": 8.02,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 8.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 8.16,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 13,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 8.09,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 12,
+        "tickets_closed": 7
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Saul.Kumar@itbd.net": {
+    "name": "Saul Kumar",
+    "email": "Saul.Kumar@itbd.net",
+    "ttl": "Mohit",
+    "partners": [
+      "TrueNorth"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 39.67,
+    "total_tickets_worked": 1243,
+    "total_tickets_closed": 588,
+    "days_worked": 11,
+    "avg_tickets_per_day": 113.0,
+    "avg_utilization_pct": 45.08,
+    "close_rate": 47.3,
+    "recent_utilization": [
+      {
+        "date": "2026-01-16",
+        "billable_hours": 3.62,
+        "non_billable_hours": 3.18,
+        "tickets_worked": 110,
+        "tickets_closed": 75
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 2.19,
+        "non_billable_hours": 4.21,
+        "tickets_worked": 78,
+        "tickets_closed": 64
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 3.05,
+        "non_billable_hours": 4.25,
+        "tickets_worked": 98,
+        "tickets_closed": 70
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 3.39,
+        "non_billable_hours": 3.11,
+        "tickets_worked": 95,
+        "tickets_closed": 28
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 2.88,
+        "non_billable_hours": 4.52,
+        "tickets_worked": 70,
+        "tickets_closed": 55
+      },
+      {
+        "date": "2026-01-26",
+        "billable_hours": 4.68,
+        "non_billable_hours": 2.72,
+        "tickets_worked": 150,
+        "tickets_closed": 28
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 3.7,
+        "non_billable_hours": 3.5,
+        "tickets_worked": 146,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-28",
+        "billable_hours": 5.21,
+        "non_billable_hours": 1.59,
+        "tickets_worked": 135,
+        "tickets_closed": 38
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 2.22,
+        "non_billable_hours": 4.88,
+        "tickets_worked": 78,
+        "tickets_closed": 57
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 3.33,
+        "non_billable_hours": 3.47,
+        "tickets_worked": 115,
+        "tickets_closed": 77
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 5.4,
+        "non_billable_hours": 1.2,
+        "tickets_worked": 168,
+        "tickets_closed": 78
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Shivani.pandey@itbd.net": {
+    "name": "Shivani pandey",
+    "email": "Shivani.pandey@itbd.net",
+    "ttl": "Mohit",
+    "partners": [
+      "APM IT Solutions"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 130.56,
+    "total_tickets_worked": 170,
+    "total_tickets_closed": 102,
+    "days_worked": 18,
+    "avg_tickets_per_day": 9.44,
+    "avg_utilization_pct": 90.67,
+    "close_rate": 60.0,
+    "recent_utilization": [
+      {
+        "date": "2026-01-15",
+        "billable_hours": 5.25,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 11,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 4.5,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 9,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 11.2,
+        "non_billable_hours": 3.0,
+        "tickets_worked": 13,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 5.5,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 8,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 6.2,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 7,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-23",
+        "billable_hours": 6.18,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 14,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-26",
+        "billable_hours": 5.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 6,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-27",
+        "billable_hours": 7.29,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 8,
+        "tickets_closed": 5
+      },
+      {
+        "date": "2026-01-29",
+        "billable_hours": 11.0,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 14,
+        "tickets_closed": 11
+      },
+      {
+        "date": "2026-01-30",
+        "billable_hours": 5.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 5,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-02",
+        "billable_hours": 5.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 8,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-03",
+        "billable_hours": 5.3,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 3,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-02-04",
+        "billable_hours": 8.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 7,
+        "tickets_closed": 4
+      },
+      {
+        "date": "2026-02-05",
+        "billable_hours": 12.95,
+        "non_billable_hours": 2.0,
+        "tickets_worked": 21,
+        "tickets_closed": 9
+      },
+      {
+        "date": "2026-02-09",
+        "billable_hours": 7.0,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 10,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 6.28,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 7,
+        "tickets_closed": 6
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 9.91,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 11,
+        "tickets_closed": 7
+      },
+      {
+        "date": "2026-02-12",
+        "billable_hours": 9.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 8,
+        "tickets_closed": 2
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Aren.Bhuraita@itbd.net": {
+    "name": "Aren Bhuraita",
+    "email": "Aren.Bhuraita@itbd.net",
+    "ttl": "Manish",
+    "partners": [
+      "Servcom USA"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 11.58,
+    "total_tickets_worked": 34,
+    "total_tickets_closed": 30,
+    "days_worked": 2,
+    "avg_tickets_per_day": 17.0,
+    "avg_utilization_pct": 72.38,
+    "close_rate": 88.24,
+    "recent_utilization": [
+      {
+        "date": "2026-01-02",
+        "billable_hours": 7.33,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 20,
+        "tickets_closed": 18
+      },
+      {
+        "date": "2026-01-05",
+        "billable_hours": 4.25,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 12
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Thomas.Sharma@itbd.net": {
+    "name": "Thomas Sharma",
+    "email": "Thomas.Sharma@itbd.net",
+    "ttl": "Mohit",
+    "partners": [
+      "APM IT Solutions"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 49.0,
+    "total_tickets_worked": 12,
+    "total_tickets_closed": 11,
+    "days_worked": 6,
+    "avg_tickets_per_day": 2.0,
+    "avg_utilization_pct": 102.08,
+    "close_rate": 91.67,
+    "recent_utilization": [
+      {
+        "date": "2026-01-15",
+        "billable_hours": 6.5,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 0,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-01-16",
+        "billable_hours": 8.5,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 2,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-19",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 2,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-20",
+        "billable_hours": 9.0,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 2,
+        "tickets_closed": 2
+      },
+      {
+        "date": "2026-01-21",
+        "billable_hours": 8.0,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 4,
+        "tickets_closed": 3
+      },
+      {
+        "date": "2026-01-22",
+        "billable_hours": 9.0,
+        "non_billable_hours": 0.5,
+        "tickets_worked": 2,
+        "tickets_closed": 2
+      }
+    ],
+    "csat_feedback": []
+  },
+  "shalib.siddiqui@itbd.net": {
+    "name": "Shalib Siddiqui",
+    "email": "shalib.siddiqui@itbd.net",
+    "ttl": "Mohit",
+    "partners": [
+      "Proda Technology"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 6.29,
+    "total_tickets_worked": 8,
+    "total_tickets_closed": 6,
+    "days_worked": 4,
+    "avg_tickets_per_day": 2.0,
+    "avg_utilization_pct": 19.64,
+    "close_rate": 75.0,
+    "recent_utilization": [
+      {
+        "date": "2026-02-05",
+        "billable_hours": 0.01,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 0,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-02-06",
+        "billable_hours": 0.02,
+        "non_billable_hours": 7.0,
+        "tickets_worked": 0,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-02-10",
+        "billable_hours": 0.01,
+        "non_billable_hours": 1.5,
+        "tickets_worked": 0,
+        "tickets_closed": 0
+      },
+      {
+        "date": "2026-02-11",
+        "billable_hours": 6.25,
+        "non_billable_hours": 1.0,
+        "tickets_worked": 8,
+        "tickets_closed": 6
+      }
+    ],
+    "csat_feedback": []
+  },
+  "Rico.Kapil@itbd.net": {
+    "name": "Rico Kapil",
+    "email": "Rico.Kapil@itbd.net",
+    "ttl": "Kawandeep",
+    "partners": [
+      "ITSolutions Inc/Chips Technology Group"
+    ],
+    "partner_count": 1,
+    "total_billable_hours": 5.64,
+    "total_tickets_worked": 14,
+    "total_tickets_closed": 9,
+    "days_worked": 1,
+    "avg_tickets_per_day": 14.0,
+    "avg_utilization_pct": 70.5,
+    "close_rate": 64.29,
+    "recent_utilization": [
+      {
+        "date": "2026-02-06",
+        "billable_hours": 5.64,
+        "non_billable_hours": 0.0,
+        "tickets_worked": 14,
+        "tickets_closed": 9
+      }
+    ],
+    "csat_feedback": []
+  }
+}

@@ -1,0 +1,297 @@
+================================================================================
+ANALYZING CSAT SURVEY FILE
+================================================================================
+
+Sheet names in CSAT file: ['CSAT_Review', 'CSAT_Key_Indicator']
+
+================================================================================
+SHEET: CSAT_Review
+================================================================================
+
+Shape: (474, 20) (rows x columns)
+
+Columns: ['Rating', 'Company', 'Contact Email', 'Contact Name', 'Comments', 'Date', 'Team Member', 'Manager', 'Departments', 'Ticket ID', 'Ticket Type', 'Ticket Name', 'Tags', 'Notes', 'Ticket Queue', 'Site', 'Source', 'Is Reviewed', 'Reviewed By', 'Reviewed At']
+
+Data Types:
+Rating               str
+Company              str
+Contact Email        str
+Contact Name         str
+Comments             str
+Date                 str
+Team Member          str
+Manager          float64
+Departments      float64
+Ticket ID          int64
+Ticket Type          str
+Ticket Name          str
+Tags                 str
+Notes                str
+Ticket Queue         str
+Site                 str
+Source               str
+Is Reviewed         bool
+Reviewed By          str
+Reviewed At          str
+dtype: object
+
+First 10 rows:
+  Rating                         Company  ... Reviewed By Reviewed At
+0  Happy  ERGOS Technology Partners, Inc  ...         NaN         NaN
+1  Happy                 ITSolutions Inc  ...         NaN         NaN
+2  Happy                 ITSolutions Inc  ...         NaN         NaN
+3  Happy                 ITSolutions Inc  ...         NaN         NaN
+4  Happy                Computer Weavers  ...         NaN         NaN
+5  Happy    Summit Business Technologies  ...         NaN         NaN
+6  Happy                     OutsourceIT  ...         NaN         NaN
+7  Happy                        MSP Corp  ...         NaN         NaN
+8  Happy                        MSP Corp  ...         NaN         NaN
+9   Okay                        MSP Corp  ...         NaN         NaN
+
+[10 rows x 20 columns]
+
+Last 5 rows:
+    Rating                         Company  ... Reviewed By Reviewed At
+469  Happy                 ITSolutions Inc  ...         NaN         NaN
+470  Happy          NetGain Technology LLC  ...         NaN         NaN
+471  Happy  ERGOS Technology Partners, Inc  ...         NaN         NaN
+472  Happy  ERGOS Technology Partners, Inc  ...         NaN         NaN
+473  Happy  ERGOS Technology Partners, Inc  ...         NaN         NaN
+
+[5 rows x 20 columns]
+
+Missing values:
+Rating             0
+Company            0
+Contact Email      0
+Contact Name       0
+Comments         292
+Date               0
+Team Member        0
+Manager          474
+Departments      474
+Ticket ID          0
+Ticket Type        0
+Ticket Name        0
+Tags             157
+Notes            471
+Ticket Queue       0
+Site               0
+Source             0
+Is Reviewed        0
+Reviewed By      469
+Reviewed At      469
+dtype: int64
+
+Unique value counts for key columns:
+  Rating: 3 unique values
+    Sample values: <StringArray>
+['Happy', 'Okay', 'Unhappy']
+Length: 3, dtype: str
+  Company: 69 unique values
+  Contact Email: 104 unique values
+  Contact Name: 105 unique values
+  Comments: 180 unique values
+  Date: 363 unique values
+  Team Member: 4 unique values
+    Sample values: <StringArray>
+['unassigned', 'kip singh', 'brian rodelas', 'kris bhattacharjee']
+Length: 4, dtype: str
+  Manager: 0 unique values
+  Departments: 0 unique values
+  Ticket ID: 474 unique values
+  Ticket Type: 3 unique values
+    Sample values: <StringArray>
+[ 'RSA Monthly Engineer CSAT - PH', 'RSA Monthly Engineer CSAT - CDG',
+ 'RSA Monthly Engineer CSAT - NDA']
+Length: 3, dtype: str
+  Ticket Name: 468 unique values
+  Tags: 14 unique values
+    Sample values: <StringArray>
+['Helpfulness, Knowledge, Time to Resolution, Time to Response',
+                                                  'Helpfulness',
+                                             'Time to Response',
+                                       'Helpfulness, Knowledge',
+                                  'Knowledge, Time to Response',
+                                'Helpfulness, Time to Response',
+            'Helpfulness, Time to Resolution, Time to Response',
+              'Knowledge, Time to Resolution, Time to Response',
+                   'Helpfulness, Knowledge, Time to Resolution',
+                     'Helpfulness, Knowledge, Time to Response']
+Length: 10, dtype: str
+  Notes: 2 unique values
+    Sample values: <StringArray>
+['We worked with Logically to replace Adler effective 07 Jan. Hannah onboarded on 08 Jan. The replacement RCA was shared with Javid and Lee on 13 Jan 2026 by Akhilesh.', 'Nitesh was offboarded from Logically, and a replacement was onboarded well ahead of his last working day, as we observed a gradual disengagement as he approached his LWD.']
+Length: 2, dtype: str
+  Ticket Queue: 1 unique values
+    Sample values: <StringArray>
+['MDE CSAT Monthly']
+Length: 1, dtype: str
+  Site: 4 unique values
+    Sample values: <StringArray>
+['Main', '4201 Main St., Suite 200-102', 'HQ', 'Edit Me']
+Length: 4, dtype: str
+  Source: 1 unique values
+    Sample values: <StringArray>
+['Ticket']
+Length: 1, dtype: str
+  Is Reviewed: 2 unique values
+    Sample values: [False  True]
+  Reviewed By: 2 unique values
+    Sample values: <StringArray>
+['Amit Dubey', 'Shashank Agarwal']
+Length: 2, dtype: str
+  Reviewed At: 3 unique values
+    Sample values: <StringArray>
+['Feb 05, 2026', 'Jan 12, 2026', 'Dec 05, 2025']
+Length: 3, dtype: str
+
+Descriptive statistics:
+       Rating    Company  ... Reviewed By   Reviewed At
+count     474        474  ...           5             5
+unique      3         69  ...           2             3
+top     Happy  Logically  ...  Amit Dubey  Feb 05, 2026
+freq      452         71  ...           3             2
+mean      NaN        NaN  ...         NaN           NaN
+std       NaN        NaN  ...         NaN           NaN
+min       NaN        NaN  ...         NaN           NaN
+25%       NaN        NaN  ...         NaN           NaN
+50%       NaN        NaN  ...         NaN           NaN
+75%       NaN        NaN  ...         NaN           NaN
+max       NaN        NaN  ...         NaN           NaN
+
+[11 rows x 20 columns]
+
+================================================================================
+SHEET: CSAT_Key_Indicator
+================================================================================
+
+Shape: (1, 9) (rows x columns)
+
+Columns: ['Net CSAT Score(%)', 'Total Reviews', 'Response Rate(%)', 'Happy Ratings(%)', 'Okay Ratings(%)', 'Unhappy Ratings(%)', 'Happy Count', 'Okay Count', 'Unhappy Count']
+
+Data Types:
+Net CSAT Score(%)     float64
+Total Reviews           int64
+Response Rate(%)      float64
+Happy Ratings(%)      float64
+Okay Ratings(%)       float64
+Unhappy Ratings(%)    float64
+Happy Count             int64
+Okay Count              int64
+Unhappy Count           int64
+dtype: object
+
+First 10 rows:
+   Net CSAT Score(%)  Total Reviews  ...  Okay Count  Unhappy Count
+0              95.36            474  ...          19              3
+
+[1 rows x 9 columns]
+
+Last 5 rows:
+   Net CSAT Score(%)  Total Reviews  ...  Okay Count  Unhappy Count
+0              95.36            474  ...          19              3
+
+[1 rows x 9 columns]
+
+Missing values:
+Net CSAT Score(%)     0
+Total Reviews         0
+Response Rate(%)      0
+Happy Ratings(%)      0
+Okay Ratings(%)       0
+Unhappy Ratings(%)    0
+Happy Count           0
+Okay Count            0
+Unhappy Count         0
+dtype: int64
+
+Unique value counts for key columns:
+  Net CSAT Score(%): 1 unique values
+    Sample values: [95.36]
+  Total Reviews: 1 unique values
+    Sample values: [474]
+  Response Rate(%): 1 unique values
+    Sample values: [86.5]
+  Happy Ratings(%): 1 unique values
+    Sample values: [95.36]
+  Okay Ratings(%): 1 unique values
+    Sample values: [4.01]
+  Unhappy Ratings(%): 1 unique values
+    Sample values: [0.63]
+  Happy Count: 1 unique values
+    Sample values: [452]
+  Okay Count: 1 unique values
+    Sample values: [19]
+  Unhappy Count: 1 unique values
+    Sample values: [3]
+
+Descriptive statistics:
+       Net CSAT Score(%)  Total Reviews  ...  Okay Count  Unhappy Count
+count               1.00            1.0  ...         1.0            1.0
+mean               95.36          474.0  ...        19.0            3.0
+std                  NaN            NaN  ...         NaN            NaN
+min                95.36          474.0  ...        19.0            3.0
+25%                95.36          474.0  ...        19.0            3.0
+50%                95.36          474.0  ...        19.0            3.0
+75%                95.36          474.0  ...        19.0            3.0
+max                95.36          474.0  ...        19.0            3.0
+
+[8 rows x 9 columns]
+
+================================================================================
+ANALYZING MDE UTILIZATION FILE
+================================================================================
+
+Sheet names in MDE file: ['Sheet1', 'Form1', '_56F9DC9755BA473782653E2940F9']
+
+================================================================================
+SHEET: Sheet1
+================================================================================
+
+Shape: (0, 0) (rows x columns)
+
+Columns: []
+
+Data Types:
+Series([], dtype: object)
+
+First 10 rows:
+Empty DataFrame
+Columns: []
+Index: []
+
+Last 5 rows:
+Empty DataFrame
+Columns: []
+Index: []
+
+Missing values:
+Series([], dtype: float64)
+
+Unique value counts for key columns:
+
+Descriptive statistics:
+Traceback (most recent call last):
+  File "/Users/GauravThakur/Desktop/BI Deshbords/analyze_excel_files.py", line 73, in <module>
+    print(df.describe(include='all'))
+          ~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/core/generic.py", line 11426, in describe
+    return describe_ndframe(
+           ~~~~~~~~~~~~~~~~^
+        obj=self,
+        ^^^^^^^^^
+    ...<2 lines>...
+        percentiles=percentiles,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    ).__finalize__(self, method="describe")
+    ^
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/core/methods/describe.py", line 91, in describe_ndframe
+    describer = DataFrameDescriber(
+        obj=cast("DataFrame", obj),
+        include=include,
+        exclude=exclude,
+    )
+  File "/Users/GauravThakur/Desktop/BI Deshbords/venv/lib/python3.13/site-packages/pandas/core/methods/describe.py", line 162, in __init__
+    raise ValueError("Cannot describe a DataFrame without columns")
+ValueError: Cannot describe a DataFrame without columns
