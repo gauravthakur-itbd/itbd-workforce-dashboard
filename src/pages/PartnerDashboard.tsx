@@ -159,47 +159,6 @@ export default function PartnerDashboard() {
           </motion.div>
         </div>
 
-        {/* AI Insights Section */}
-        {(() => {
-          const insights = InsightsEngine.getPartnerInsights(partnerData)
-          return insights.length > 0 && (
-            <div className="card">
-              <div className="flex items-center gap-3 mb-6">
-                <Lightbulb className="w-5 h-5 text-brand-primary" />
-                <h2 className="text-xl font-display font-bold text-white">Partner Insights</h2>
-              </div>
-              <div className="grid md:grid-cols-2 gap-4">
-                {insights.map((insight, index) => (
-                  <motion.div
-                    key={index}
-                    initial={{ opacity: 0, y: 10 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: index * 0.1 }}
-                    className={`p-4 border rounded-lg ${InsightsEngine.getInsightColor(insight.type)}`}
-                  >
-                    <div className="flex items-start gap-3">
-                      <div className={`w-1 h-full min-h-[60px] rounded-full ${
-                        insight.type === 'success' ? 'bg-accent-green' :
-                        insight.type === 'warning' ? 'bg-accent-yellow' :
-                        insight.type === 'alert' ? 'bg-accent-red' :
-                        'bg-brand-primary'
-                      }`} />
-                      <div className="flex-1">
-                        <h3 className={`font-semibold mb-2 ${InsightsEngine.getInsightIconColor(insight.type)}`}>
-                          {insight.title}
-                        </h3>
-                        <p className="text-sm text-neutral-300 leading-relaxed">
-                          {insight.description}
-                        </p>
-                      </div>
-                    </div>
-                  </motion.div>
-                ))}
-              </div>
-            </div>
-          )
-        })()}
-
         {/* Charts Row */}
         <div className="grid lg:grid-cols-2 gap-6">
           {/* Engineer Utilization */}
@@ -313,6 +272,47 @@ export default function PartnerDashboard() {
             </ResponsiveContainer>
           </div>
         )}
+
+        {/* AI Insights Section */}
+        {(() => {
+          const insights = InsightsEngine.getPartnerInsights(partnerData)
+          return insights.length > 0 && (
+            <div className="card">
+              <div className="flex items-center gap-3 mb-6">
+                <Lightbulb className="w-5 h-5 text-brand-primary" />
+                <h2 className="text-xl font-display font-bold text-white">Partner Insights</h2>
+              </div>
+              <div className="grid md:grid-cols-2 gap-4">
+                {insights.map((insight, index) => (
+                  <motion.div
+                    key={index}
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: index * 0.1 }}
+                    className={`p-4 border rounded-lg ${InsightsEngine.getInsightColor(insight.type)}`}
+                  >
+                    <div className="flex items-start gap-3">
+                      <div className={`w-1 h-full min-h-[60px] rounded-full ${
+                        insight.type === 'success' ? 'bg-accent-green' :
+                        insight.type === 'warning' ? 'bg-accent-yellow' :
+                        insight.type === 'alert' ? 'bg-accent-red' :
+                        'bg-brand-primary'
+                      }`} />
+                      <div className="flex-1">
+                        <h3 className={`font-semibold mb-2 ${InsightsEngine.getInsightIconColor(insight.type)}`}>
+                          {insight.title}
+                        </h3>
+                        <p className="text-sm text-neutral-300 leading-relaxed">
+                          {insight.description}
+                        </p>
+                      </div>
+                    </div>
+                  </motion.div>
+                ))}
+              </div>
+            </div>
+          )
+        })()}
 
         {/* Engineers List */}
         <div className="card">
