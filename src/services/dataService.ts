@@ -341,6 +341,79 @@ class DataService {
     return { utilizationTrend, csatTrend };
   }
 
+  // Global utilization trend (period-aware)
+  getGlobalUtilizationTrend(period: ReportingPeriod = '90'): Array<{
+    date: string;
+    utilization: number;
+    tickets: number;
+  }> {
+    const engineers = this.getAllEngineers();
+    
+    // Create a map of date -> aggregated data
+    const dailyData = new Map<string, { totalHours: number; totalTickets: number; engineerDays: number }>();
+    
+    engineers.forEach(({ profile }) => {
+      const filteredUtil = this.filterByPeriod(profile.recent_utilization, period);
+      filteredUtil.forEach(day => {
+        const existing = dailyData.get(day.date) || { totalHours: 0, totalTickets: 0, engineerDays: 0 };
+        dailyData.set(day.date, {
+          totalHours: existing.totalHours + day.billable_hours,
+          totalTickets: existing.totalTickets + day.tickets_closed,
+          engineerDays: existing.engineerDays + 1
+        });
+      });
+    });
+    
+    // Convert to array and calculate utilization
+    const trend = Array.from(dailyData.entries())
+      .map(([date, data]) => ({
+        date,
+        utilization: data.engineerDays > 0 ? Math.round((data.totalHours / (data.engineerDays * 8)) * 100) : 0,
+        tickets: data.totalTickets
+      }))
+      .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+    
+    return trend;
+  }
+
+  // Global ticket trend aggregated by week (period-aware)
+  getGlobalTicketTrend(period: ReportingPeriod = '90'): Array<{
+    week: string;
+    worked: number;
+    closed: number;
+  }> {
+    const engineers = this.getAllEngineers();
+    
+    // Aggregate by week
+    const weeklyData = new Map<string, { worked: number; closed: number }>();
+    
+    engineers.forEach(({ profile }) => {
+      const filteredUtil = this.filterByPeriod(profile.recent_utilization, period);
+      filteredUtil.forEach(day => {
+        const date = new Date(day.date);
+        // Get week number
+        const weekNum = Math.ceil((date.getDate()) / 7);
+        const monthYear = date.toLocaleDateString('en-US', { month: 'short', year: '2-digit' });
+        const weekKey = `W${weekNum} ${monthYear}`;
+        
+        const existing = weeklyData.get(weekKey) || { worked: 0, closed: 0 };
+        weeklyData.set(weekKey, {
+          worked: existing.worked + day.tickets_worked,
+          closed: existing.closed + day.tickets_closed
+        });
+      });
+    });
+    
+    // Convert to array and sort by date
+    return Array.from(weeklyData.entries())
+      .map(([week, data]) => ({
+        week,
+        worked: data.worked,
+        closed: data.closed
+      }))
+      .slice(-8); // Return last 8 weeks max
+  }
+
   // Top performers (period-aware)
   getTopEngineersByUtilization(limit: number = 10, period: ReportingPeriod = '90'): Array<{
     email: string;

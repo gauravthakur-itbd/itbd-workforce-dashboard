@@ -57,24 +57,44 @@ export default function Dashboard() {
     }).sort((a: any, b: any) => b.utilization - a.utilization)
   }, [allTTLs, period])
 
-  // Mock utilization trend - you can enhance this with historical data
-  const utilizationTrend = [
-    { month: 'Aug 25', utilization: 72 },
-    { month: 'Sep 25', utilization: 74 },
-    { month: 'Oct 25', utilization: 76 },
-    { month: 'Nov 25', utilization: 75 },
-    { month: 'Dec 25', utilization: 73 },
-    { month: 'Jan 26', utilization: 76 },
-    { month: 'Feb 26', utilization: kpis.utilization },
-  ]
+  // Get dynamic utilization trend based on reporting period
+  const utilizationTrend = useMemo(() => {
+    const trend = dataService.getGlobalUtilizationTrend(period)
+    
+    // Group by week or month depending on period
+    const days = parseInt(period)
+    if (days <= 30) {
+      // For shorter periods, show weekly data
+      return trend.slice(-4).map((item, index) => ({
+        month: `W${index + 1}`,
+        utilization: item.utilization
+      }))
+    } else {
+      // For longer periods, aggregate by month
+      const monthlyData = new Map<string, { total: number; count: number }>()
+      trend.forEach(item => {
+        const date = new Date(item.date)
+        const monthKey = date.toLocaleDateString('en-US', { month: 'short', year: '2-digit' })
+        const existing = monthlyData.get(monthKey) || { total: 0, count: 0 }
+        monthlyData.set(monthKey, {
+          total: existing.total + item.utilization,
+          count: existing.count + 1
+        })
+      })
+      
+      return Array.from(monthlyData.entries())
+        .map(([month, data]) => ({
+          month,
+          utilization: Math.round(data.total / data.count)
+        }))
+        .slice(-7) // Last 7 months max
+    }
+  }, [period])
 
-  // Mock ticket trend - enhance with real aggregated data
-  const ticketTrend = [
-    { week: 'W1', worked: 850, closed: 820 },
-    { week: 'W2', worked: 920, closed: 890 },
-    { week: 'W3', worked: 880, closed: 860 },
-    { week: 'W4', worked: 950, closed: 920 },
-  ]
+  // Get dynamic ticket trend based on reporting period
+  const ticketTrend = useMemo(() => {
+    return dataService.getGlobalTicketTrend(period)
+  }, [period])
 
   const KPICard = ({ 
     title, 
